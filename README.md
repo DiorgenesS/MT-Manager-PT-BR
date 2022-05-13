@@ -1,4 +1,4 @@
-[![MT Manager logo](https://i.imgur.com/CRTxQTm.png)]
+![MT Manager logo](https://i.imgur.com/CRTxQTm.png)
 
 # Tradução do gerenciador de arquivos MT Manager para o idioma português do Brasil (Pt-BR) 
 
