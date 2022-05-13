@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="n_days_ago">
-        <item quantity="one">%d day ago</item>
-        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d dia atrás</item>
+        <item quantity="other">%d dias atrás</item>
     </plurals>
     <plurals name="n_hours_ago">
-        <item quantity="one">%d hour ago</item>
-        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hora atrás</item>
+        <item quantity="other">%d horas atrás</item>
     </plurals>
     <plurals name="n_minutes_ago">
-        <item quantity="one">%d minute ago</item>
-        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minuto atrás</item>
+        <item quantity="other">%d minutos atrás</item>
     </plurals>
     <plurals name="n_seconds_ago">
-        <item quantity="one">%d second ago</item>
-        <item quantity="other">%d seconds ago</item>
+        <item quantity="one">%d segundo atrás</item>
+        <item quantity="other">%d segundos atrás</item>
     </plurals>
     <plurals name="plugin_provide_translator">
-        <item quantity="one">%d translation interface</item>
-        <item quantity="other">%d translation interfaces</item>
+        <item quantity="one">%d interface de tradução</item>
+        <item quantity="other">%d interfaces de tradução</item>
     </plurals>
     <plurals name="plugin_provide_other">
-        <item quantity="one">%d other interface</item>
-        <item quantity="other">%d other interfaces</item>
+        <item quantity="one">%d outra interface</item>
+        <item quantity="other">%d outras interfaces</item>
     </plurals>
     <plurals name="term_notification">
-        <item quantity="one">%d session</item>
-        <item quantity="other">%d sessions</item>
+        <item quantity="one">%d sessão</item>
+        <item quantity="other">%d sessões</item>
     </plurals>
 </resources>
