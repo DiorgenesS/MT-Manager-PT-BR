@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="vip_remaining_time">
+        <item quantity="one">VIP expires in %d day</item>
+        <item quantity="other">VIP expires in %d days</item>
+    </plurals>
+
+    <string name="see_details">See details</string>
+    <string name="not_opened_vip">Not VIP</string>
+
+    <string name="purchase_vip_now">Purchase VIP</string>
+    <string name="renew_vip_now">Purchase VIP</string>
+
+    <string name="purchasing_vip">Purchasing VIP…</string>
+    <string name="purchase_vip_success">Purchase VIP success</string>
+    <string name="opened_lifetime_vip">You are already a lifetime VIP</string>
+
+    <string name="vip_privilege">Privilege</string>
+
+    <string name="understood_and_agreed_vip_notice"><u>VIP Notices</u></string>
+    <string name="vip_notice">VIP notices</string>
+    <string name="vip_notice_content">* You can use all the VIP functions of the MT Manager after you activate the VIP. The account is not tied to the mobile phone. You can log in to use on any mobile phone, but it does not support logging in to the same account at the same time.\n* In order for the MT manager to operate well for a long time, the VIP account is limited to the purchaser himself, and it is not allowed to be shared, rented or sold publicly, otherwise the account may be permanently frozen.\n* VIP content belongs to virtual goods, once purchase does not support refund operation.\n* If you encounter problems during the payment process, you can write to 921558445@qq.com</string>
+
+    <string name="vip_function1">Custom signature key</string>
+    <string name="vip_function2">Cloud backup user data</string>
+    <string name="vip_function3">Full hex editor</string>
+    <string name="vip_function4">AXml editing function</string>
+    <string name="vip_function5">Smali to Java</string>
+    <string name="vip_function6">Arsc resource querier</string>
+    <string name="vip_function7">Repair dex file</string>
+    <string name="vip_function8">Dex anti-confuse</string>
+    <string name="vip_function9">Decrypt dex strings</string>
+    <string name="vip_function10">Text comparator</string>
+    <string name="vip_function11">Plugin extension</string>
+    <string name="vip_function12">More than that >></string>
+
+</resources>

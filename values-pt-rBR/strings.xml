@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="language_name">English</string>
+
+    <string name="select_text">Select</string>
+    <string name="menu_edit_undo">Undo</string>
+    <string name="menu_edit_redo">redo</string>
+    <string name="menu_jump_to_line">Jump to line</string>
+    <string name="menu_charset">Charset</string>
+    <string name="linebreak">Linebreak</string>
+    <string name="label_font">Font</string>
+    <string name="label_font_size">Font Size</string>
+    <string name="label_font_type_normal">Normal</string>
+    <string name="label_font_type_monospace">Monospace</string>
+    <string name="label_re">Regex</string>
+    <string name="label_input">Input</string>
+    <string name="label_word_wrap">Word wrap</string>
+    <string name="label_show_line_numbers">Show line numbers</string>
+    <string name="label_auto_indent">Auto indent</string>
+    <string name="label_show_tab">Show tab</string>
+    <string name="toast_syntax_error">syntax error</string>
+    <string name="code_highlight">Syntax highlight</string>
+    <string name="match_case">Match case</string>
+    <string name="appearance">Appearance</string>
+    <string name="pinch_to_zoom">Pinch to zoom</string>
+    <string name="read_only_mode">Read-only mode</string>
+    <string name="smooth_mode">Smooth mode</string>
+    <string name="smooth_mode_warn">After switching to the smooth mode, the fluency of editing large texts will be greatly enhanced, but this operation will lead to some features of the input method(such as copy and cut) being restricted. Moreover, the function of MT\'s own menu will not be affected.</string>
+    <string name="smooth_mode_auto">Automatically switched to smooth mode</string>
+
+    <string name="about">About</string>
+    <string name="access_flag_error">Access flag error</string>
+    <string name="access_flags">Access flags</string>
+    <string name="activity_record">Activity Record</string>
+    <string name="activity_record_beta">Activity Record (Beta)</string>
+    <string name="adding">Adding…</string>
+    <string name="advanced_search">Advanced search</string>
+    <string name="already_cancel">Action canceled</string>
+    <string name="text_has_been_copied">Text has been copied to the clipboard</string>
+    <string name="apk_file_size">File size</string>
+    <string name="apk_info">APK information</string>
+    <string name="apk_optimize">APK Optimize</string>
+    <string name="apk_sign">APK Sign</string>
+    <string name="app_name">MT Manager</string>
+    <string name="application_not_found">Application Not Found</string>
+    <string name="arsc_editor">Arsc Editor</string>
+    <string name="axml_decompiled">Android Xml (Decompiled)</string>
+    <string name="axml_editor">Axml Editor</string>
+    <string name="backstage">Background</string>
+    <string name="backward">Backward</string>
+    <string name="belong">Belonger</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="calculating_signature">Calculating signature…</string>
+    <string name="can_not_edit_code">Unable to edit the code</string>
+    <string name="cancel">Cancel</string>
+    <string name="canceling">Cancelling operations…</string>
+    <string name="modify">Modify</string>
+    <string name="change_owner">Change owner</string>
+    <string name="changing">Changing…</string>
+    <string name="checksum">Checksum</string>
+    <string name="class_exists">Class name \"%s\" exists</string>
+    <string name="class_info">Class Info</string>
+    <string name="class_list">Class List</string>
+    <string name="clear">Clear</string>
+    <string name="clear_set">Clear apply</string>
+    <string name="close">Close</string>
+    <string name="code_editor">Code Editor</string>
+    <string name="code_query_save">Save the code?</string>
+    <string name="collecting_resources">Collecting resources…</string>
+    <string name="color_picker">Color picker</string>
+    <string name="common">General</string>
+    <string name="compile">Compile</string>
+    <string name="compiling">Compiling…</string>
+    <string name="confusing">Confusing…</string>
+    <string name="constant_value">Constant value</string>
+    <string name="content">Content</string>
+    <string name="content_not_change">Content unchanged</string>
+    <string name="copy_class_name">Copy full class name</string>
+    <string name="copying">Copying</string>
+    <string name="count_searched">Found: %d</string>
+    <string name="create">Create</string>
+    <string name="current_path_left">Current Path - Left (%s)</string>
+    <string name="current_path_right">Current Path - Right (%s)</string>
+    <string name="data_directory">Data directory</string>
+    <string name="processing">Processing…</string>
+    <string name="descriptor">Descriptor</string>
+    <string name="dex_editor">Dex Editor</string>
+    <string name="disk_msg">Disk: %1$s/%2$s</string>
+    <string name="disk_msg2">%1$s used, %2$s available</string>
+    <string name="disk_ro">RO</string>
+    <string name="disk_rw">RW</string>
+    <string name="edit">Edit</string>
+    <string name="edit_code">Edit code</string>
+    <string name="effect_after_restart">Restart to take effect.</string>
+    <string name="enter_password">Please enter your password</string>
+    <string name="error">Error</string>
+    <string name="error_details">Error details</string>
+    <string name="error_extra">Please tell me the error details to help me fix the errors. Also please leave your contact information if you can.</string>
+    <string name="error_msg">Error</string>
+    <string name="exit">Exit</string>
+    <string name="exit_query">Do you want to exit?</string>
+    <string name="export_tool">Export Tool</string>
+    <string name="export_tool_success">Tool file has been saved to \"SDCard/MT2/MTkeytool.zip\"</string>
+    <string name="exterior">Appearance</string>
+    <string name="failed_file_list">The following file modification failed</string>
+    <string name="field">Fields</string>
+    <string name="field_info">Field information</string>
+    <string name="field_list">Field list</string>
+    <string name="field_name">Field name</string>
+    <string name="file">File</string>
+    <string name="file_content">Text to find</string>
+    <string name="file_copying_name">Name:</string>
+    <!-- must use \u0020\u0020 to represent two spaces -->
+    <string name="file_count_msg">Folder: %1$d\u0020\u0020File: %2$d</string>
+    <string name="file_counting">Counting</string>
+    <string name="file_cover">Cover</string>
+    <string name="file_cover_all">Cover All</string>
+    <string name="file_exists">File already exists</string>
+    <string name="file_from">From:</string>
+    <string name="file_list_size">File list size</string>
+    <string name="file_name_error">File name contain special symbols</string>
+    <string name="file_name_max_line">Max lines of file name</string>
+    <string name="file_opening">Opening file…</string>
+
+    <!-- Do you wan to copy 2 files into
+         /xxx/yyy/ ?-->
+    <string name="file_query_operation">Do you want to %1$s %2$d files into\n%3$s ?</string>
+    <!-- Do you wan to copy abc.txt into
+         /xxx/yyy/ ?-->
+    <string name="file_query_operation_one">Do you want to %1$s %2$s into\n%3$s ?</string>
+
+    <!-- Do you wan to delete 2 files?-->
+    <string name="file_query_operation2">Do you want to %1$s %2$d files?</string>
+    <!-- Do you wan to delete abc.txt?-->
+    <string name="file_query_operation2_one">Do you want to %1$s %2$s?</string>
+
+    <string name="file_query_remount">Do you want to remount target file system as read-write?</string>
+    <string name="file_query_remount2">Do you want to remount the file system as read-write?</string>
+    <string name="file_query_save">Do you want to save the file?</string>
+    <string name="file_remaining_items">Remaining:</string>
+    <string name="file_searching">Searching…</string>
+    <string name="file_skip">Skip</string>
+    <string name="file_skip_all">Skip All</string>
+    <string name="file_speed">Speed:</string>
+    <string name="file_to">To:</string>
+    <string name="filter">Filter</string>
+    <string name="filtering_by_size">Filtering by file size</string>
+    <string name="filter_title">Filter: %s</string>
+    <string name="find">Find</string>
+    <string name="find_prev_short">Prev</string>
+    <string name="find_next_short">Next</string>
+    <string name="folder">Folder</string>
+    <string name="forward">Forward</string>
+    <string name="function">Function</string>
+    <string name="generate_key">Generate key</string>
+    <string name="get_root">Get root privileges</string>
+    <string name="has_been_copied">Text has been copied to the clipboard</string>
+    <string name="hexadecimal">Hex</string>
+    <string name="hide">Hide</string>
+    <string name="image_damaged">Photo Damaged T_T</string>
+    <string name="incorrect_password">Incorrect password</string>
+    <string name="install">Install</string>
+    <string name="integer">Integer</string>
+    <string name="interfaces">Interface</string>
+    <string name="left_window">Left Window</string>
+    <string name="link">Link</string>
+    <string name="link_failed_list">The following link creation failed</string>
+    <string name="linking">Creating link…</string>
+    <string name="load_path_left">Startup path - left window</string>
+    <string name="load_path_right">Startup path - right window</string>
+    <string name="loading">Loading…</string>
+    <string name="menu">Menu</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_add_to_bookmarks">Add to bookmarks</string>
+    <string name="menu_close_file">Close file</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_link">Link</string>
+    <string name="menu_move">Move</string>
+    <string name="menu_open_with">Open with…</string>
+    <string name="menu_property">Property</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_remount_ro">Remount RO</string>
+    <string name="menu_remount_rw">Remount RW</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_set_as_home">Set as Homepage</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_sort_only_in_path">Only apply to this folder</string>
+    <string name="menu_switch_background">Switch background color</string>
+    <string name="menu_extract">Extract</string>
+    <string name="menu_compress">Compress</string>
+    <string name="method">Method</string>
+    <string name="method_info">Method information</string>
+    <string name="method_list">Method list</string>
+    <string name="method_name">Method name</string>
+    <string name="method_search">Search method</string>
+    <string name="moving">Moving…</string>
+    <string name="no">NO</string>
+    <string name="no_wifi">No WiFi internet connection</string>
+    <string name="not_search_results">Not find anything</string>
+    <string name="text_not_found">Can\'t find the text.</string>
+    <string name="notif_server_starting">Remote Management Service is Started</string>
+    <string name="notif_title">Remote Management Service is Running</string>
+    <string name="ok">OK</string>
+    <string name="open_failed">Open Failed</string>
+    <string name="out_of_memory_error">Out of Memory Error</string>
+    <string name="other">Other</string>
+    <string name="package_name">Package name</string>
+    <string name="paste_and_check">Paste and Verify</string>
+    <string name="path">Path</string>
+    <string name="per_group">Group</string>
+    <string name="per_line">---- special permissions ----</string>
+    <string name="per_other">Other</string>
+    <string name="per_owner">Owner</string>
+    <string name="per_r">Read</string>
+    <string name="per_set_uid">Set UID</string>
+    <string name="per_set_gid">Set GID</string>
+    <string name="per_t">Sticky</string>
+    <string name="per_w">Write</string>
+    <string name="per_x">Exec</string>
+    <string name="photo_viewer">Photo Viewer</string>
+    <string name="pick_file_size">Select the file size</string>
+    <string name="preparing">Preparing…</string>
+    <string name="preview">Preview</string>
+    <string name="preview_error">Preview (Conflict)</string>
+    <string name="property_name">Name</string>
+    <string name="property_type">Type</string>
+    <string name="property_link">Link to</string>
+    <string name="property_csize">Compressed Size</string>
+    <string name="property_crc32">CRC32</string>
+    <string name="property_parent">Parent</string>
+    <string name="property_size">Size</string>
+    <string name="property_time">Modified</string>
+    <string name="property_permissions">Permissions</string>
+    <string name="property_owner">Owner</string>
+    <string name="property_group">Group</string>
+    <string name="property_file_count">File Count</string>
+    <string name="property_folder_count">Folder Count</string>
+    <string name="query_cancel">Press again to cancel</string>
+    <string name="query_exit">Press again to exit</string>
+    <string name="query_update_try_again">Update failed, do you want to retry the operation?</string>
+    <string name="register_count">Register count</string>
+    <string name="reloading">Reloading…</string>
+    <string name="remote_instruction">Put it into your Computer Explorer\'s address bar:</string>
+    <string name="remote_instruction_pre1">Remotely manage your phone files on computer</string>
+    <string name="remote_instruction_pre2">This feature requires your phone and your computer in the same LAN</string>
+    <string name="remote_manager">Remote Management</string>
+    <string name="remove_class">Delete class</string>
+    <string name="remove_field">Delete field</string>
+    <string name="remove_method">Delete method</string>
+    <string name="removing">Deleting…</string>
+    <string name="rename_batch">Batch rename</string>
+    <string name="rename_class">Rename class</string>
+    <string name="rename_failed_list">The following file rename failed</string>
+    <string name="renaming">Renaming…</string>
+    <string name="replace_short">Rep</string>
+    <string name="replace_all_short">All</string>
+    <string name="replace_and_find">R/F</string>
+    <string name="replace_content">Replace with</string>
+    <string name="replace_count">Total replaced %d times</string>
+    <string name="res_confuse">Resources Confuse</string>
+    <string name="right_window">Right Window</string>
+    <string name="root_directory">Root Directory</string>
+    <string name="save_and_exit">Save and Exit</string>
+    <string name="saving">Saving…</string>
+    <string name="search_class_name">Class name</string>
+    <string name="search_content">Text to find</string>
+    <string name="search_name">File name to find (support * and ?)</string>
+    <string name="search_result">Search results</string>
+    <string name="search_result_count">search results (%d)</string>
+    <string name="search_string">Search string</string>
+    <string name="search_type">Search type</string>
+    <string name="searching">Searching…</string>
+    <string name="secondary_search">Secondary search</string>
+    <string name="secondary_storage_directory">External storage</string>
+    <string name="sel_all">Select all</string>
+    <string name="sel_continuously">Select continuously</string>
+    <string name="sel_continuously_help_file">Swipe to select two files in the list than it will automatically select all files between the two files.</string>
+    <string name="sel_continuously_help_item">Click two items in the list than it will automatically select all files between the two files.</string>
+    <string name="sel_invert">Invert selection</string>
+    <string name="sel_similar">Select same type items</string>
+    <string name="send">Send</string>
+    <string name="set_home_path_success">Set as homepage successfully</string>
+    <string name="set_permission">Modify Permissions</string>
+    <string name="setting_permission">Setting permissions…</string>
+    <string name="settings">Preferences</string>
+    <string name="show_hidden_file">Show hidden files</string>
+    <string name="signature_key">Signature Key</string>
+    <string name="signature_key_instructions">Custom key file placed in \"SDCard/MT2/keys\".</string>
+    <string name="signature_key_instructions2">You just need to open the .jks or .keystore file with MT to import the signature.</string>
+    <string name="sort_by_date">by Date</string>
+    <string name="sort_by_name">by Name</string>
+    <string name="sort_by_size">by Size</string>
+    <string name="sort_by_type">by Type</string>
+    <string name="sort_reverse">Reverse order</string>
+    <string name="source_file">Source file</string>
+    <string name="start">Start</string>
+    <string name="start_server">Start service</string>
+    <string name="stop_search">Stop search</string>
+    <string name="stop_server">Stop service</string>
+    <string name="storage">Storage</string>
+    <string name="storage_directory">Storage Directory</string>
+    <string name="string">String</string>
+    <string name="string_pool">String pool</string>
+    <string name="summary_show_hidden_file_off">Hide files whose names start with .</string>
+    <string name="summary_show_hidden_file_on">Displayed all files</string>
+    <string name="super_class">Super class</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="text_editor">Text Editor</string>
+    <string name="prompt">Prompt</string>
+    <string name="prompt_never">Never show</string>
+
+    <string name="prompt_sel_all">Swipe files can be selected directly</string>
+    <string name="tools">Tools</string>
+    <string name="total_progress">Total</string>
+    <string name="translation_mode">Translation mode</string>
+    <string name="type_all">All</string>
+    <string name="type_audio">Audio</string>
+    <string name="type_default">Default</string>
+    <string name="type_image">Image</string>
+    <string name="type_text">Text</string>
+    <string name="type_video">Video</string>
+    <string name="unlimited">Unlimited</string>
+    <string name="unzip_input_path">Path to extract…</string>
+    <string name="unzip_to_current_directory">Extract to current directory</string>
+    <string name="unziping">Extracting…</string>
+    <string name="update">Update</string>
+    <string name="update_method">Update mode</string>
+    <string name="updating">Updating…</string>
+    <string name="use_mixed_case_file_names">Use mixed case file names</string>
+    <string name="value_format_error">Value format error</string>
+    <string name="version_code">Version code</string>
+    <string name="view">View</string>
+    <string name="wifi_state">WiFi Status</string>
+    <string name="writing_to_file">Outputting file…</string>
+    <string name="x_files">%d files</string>
+    <string name="yes">yes</string>
+    <string name="zip_back_operation">When exiting the zip file</string>
+    <string name="zip_level">Level</string>
+    <string name="zip_query_update">File \"%s\" has been modified, do you want to update it?</string>
+    <string name="zip_prompt">%s\nPermission denied in current directory, you can copy the files into SD Card first</string>
+    <string name="zip_prompt2">%s\nPermission denied, you can extract the files to SD Card first and then copy them into current directory</string>
+
+    <string name="encrypt_arsc_resource_name">Encrypt arsc resource name</string>
+    <string name="apk_optimize_instructions">Repackaged non-standard packed files in apk and Zipalign optimization, then the apk file size may increase\n\nNOTE: Just Zipalign and the resource file is non-standard packed, the optimization is invalid</string>
+    <string name="sel_start">Multiple selection</string>
+    <string name="auto_translate">Automatic Translate</string>
+    <string name="clear_translation">Clear</string>
+    <string name="after_translate">Translation</string>
+    <string name="changed_query_save">Do you want to save the changes?</string>
+    <string name="skip_already_translated">Skip items has been translated</string>
+    <string name="translation_method">Provider</string>
+    <string name="src_language">Source</string>
+    <string name="target_language">Target</string>
+
+    <string name="language">Language</string>
+    <string name="language_auto">Auto</string>
+    <string name="language_chinese">Chinese</string>
+    <string name="language_traditional_chinese">Traditional Chinese</string>
+    <string name="language_english">English</string>
+    <string name="language_russian">Russian</string>
+    <string name="language_koren">Korean</string>
+    <string name="language_japanese">Japanese</string>
+    <string name="language_french">French</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="language_thai">Thai</string>
+    <string name="language_arabic">Arabic</string>
+    <string name="language_portuguese">Portuguese</string>
+    <string name="language_german">German</string>
+    <string name="language_italian">Italian</string>
+    <string name="language_greek">Greek</string>
+    <string name="language_dutch">Dutch</string>
+    <string name="language_polish">Polish</string>
+    <string name="language_bulgarian">Bulgarian</string>
+    <string name="language_estonian">Estonian</string>
+    <string name="language_danish">Danish</string>
+    <string name="language_finnish">Finnish</string>
+    <string name="language_czech">Czech</string>
+    <string name="language_romanian">Romanian</string>
+    <string name="language_slovenian">Slovenian</string>
+    <string name="language_swedish">Swedish</string>
+    <string name="language_hungarian">Hungarian</string>
+    <string name="language_ukrainian">Ukrainian</string>
+    <string name="select_language_to_hide">Select language to hide</string>
+
+    <string name="read_failed">Please check your internet connection</string>
+    <string name="flatten_package">Flatten package</string>
+    <string name="xml_translation_mode">Xml Translation Mode</string>
+    <string name="menu_hide_into_backstage">Hide</string>
+
+    <string name="day_mode">Day mode</string>
+    <string name="night_mode">Night mode</string>
+
+    <string name="need_root_permission">Permission denied</string>
+
+    <string name="open_with_text">Text Editor</string>
+    <string name="open_with_image">Image Viewer</string>
+    <string name="open_with_music">Music Player</string>
+    <string name="open_with_font">Font Viewer</string>
+    <string name="open_with_zip">ZIP Viewer</string>
+    <string name="open_with_apk">APK Viewer</string>
+    <string name="open_with_arsc">Arsc Editor</string>
+    <string name="open_with_axml">XML Editor</string>
+    <string name="open_with_dex">DEX Editor</string>
+    <string name="open_with_script">Script Executor</string>
+
+    <string name="type">Type</string>
+    <string name="own">Own</string>
+    <string name="music_player">Music Player</string>
+    <string name="music_play">Play</string>
+    <string name="music_pause">Pause</string>
+
+    <string name="font_viewer">Font Viewer</string>
+    <string name="script_executor">Script Executor</string>
+    <string name="script_file">Script File</string>
+    <string name="script_prompt">Please select an action to perform</string>
+    <string name="execute">Execute</string>
+    <string name="script_exit_prompt">Script is running,do you want to exit?</string>
+    <string name="script_execution_completed">Script execution completed</string>
+
+
+    <string name="more">More</string>
+    <string name="connect_to_server_failed">Connection to server failed</string>
+
+    <string name="user_login">Login</string>
+    <string name="user_logout">Logout</string>
+    <string name="user_not_login">Not logged in</string>
+    <string name="user_login_button">Login</string>
+    <string name="user_logging_in">Logging in</string>
+    <string name="user_register">Register</string>
+    <string name="user_registering">Registering</string>
+    <string name="user_register_button">Register</string>
+    <string name="user_name">Username</string>
+    <string name="user_nick">Nickname</string>
+    <string name="user_password">Password</string>
+    <string name="user_email">Email</string>
+    <string name="user_reg_time">Reg</string>
+    <string name="user_vip">VIP</string>
+    <string name="user_purchase_vip">Purchase VIP</string>
+    <string name="user_renew_vip">Purchase VIP</string>
+    <string name="user_not_vip">Not VIP</string>
+    <string name="user_remember_password">Remember password</string>
+    <string name="user_enter_old_password">Old password</string>
+    <string name="user_enter_new_password">New password</string>
+    <string name="user_info">User Info</string>
+    <string name="user_change_password">Change password</string>
+
+    <string name="user_login_success">Login successful</string>
+    <string name="user_login_failed">Login failed</string>
+    <string name="user_login_username_not_exists">Username doesn\'t exists</string>
+    <string name="user_login_incorrect_password">Incorrect password</string>
+    <string name="user_login_out_date">Login status has expired. Please login again</string>
+
+    <string name="user_enter_username">Username</string>
+    <string name="user_enter_password">Password</string>
+    <string name="user_confirm_password">Confirm</string>
+    <string name="user_enter_email">Email</string>
+    <string name="user_username_hint1">Only alphanumeric numbers and underscores are supported</string>
+    <string name="user_username_hint2">Username must be longer than 3</string>
+    <string name="user_password_hint1">Password can\'t contain blank</string>
+    <string name="user_password_hint2">Password must be longer than 6</string>
+    <string name="user_confirm_hint1">Passwords are inconsistent</string>
+    <string name="user_confirm_hint2">Can\'t be the same as the old password</string>
+    <string name="user_email_hint">Email format error</string>
+    <string name="user_username_exists">Username already exists</string>
+    <string name="user_email_exists">Email is already been used</string>
+    <string name="user_username_format_error">Username format error</string>
+    <string name="user_password_format_error">Password format error</string>
+
+    <string name="user_register_success">Registration success</string>
+    <string name="user_register_failed">Registration failed</string>
+
+    <string name="user_nickname_modify">Modify nickname</string>
+    <string name="user_modifying">Modifying</string>
+    <string name="user_modify_success">Successfully modified</string>
+    <string name="user_modify_failed">Failed modified</string>
+    <string name="user_nickname_too_long">Nickname too long</string>
+    <string name="user_nickname_can_not_empty">Nickname can\'t be empty</string>
+
+    <string name="user_changing_password">Changing password…</string>
+    <string name="user_change_password_success">Change password success. Please login again</string>
+    <string name="user_change_password_failed">Change password failed</string>
+
+    <string name="decompile_failed_check_network">Decompile failed. Please check your internet connection</string>
+    <string name="decompile_failed_unknown_error">Decompile failed. Unknown error</string>
+    <string name="please_login_again">Please login again</string>
+    <string name="please_login_first">Please login first</string>
+    <string name="feature_need_vip">This feature is only available to VIP</string>
+
+    <string name="user_recharge_key">Key Recharge</string>
+    <string name="user_recharge_key_32">Please enter a key with length of 32</string>
+    <string name="user_recharge_key_format_error">Key format error</string>
+    <string name="user_recharge_success">Successful recharge</string>
+    <string name="user_recharge_failed">Recharge failed</string>
+    <string name="user_recharge_key_not_exists">Key not exists</string>
+    <string name="user_recharge_key_unable">This key has been used</string>
+
+    <string name="user_recharge_ali_wechat">Alipay/WechatPay</string>
+    <string name="user_recharge_alipay">Alipay</string>
+    <string name="user_recharge_wechat">WechatPay</string>
+    <string name="user_recharge_qq">QQPay</string>
+    <string name="user_recharge_paypal">PayPal</string>
+    <string name="user_permanent_vip_short">Lifetime</string>
+    <string name="user_permanent_vip">Lifetime VIP</string>
+
+    <string name="source">Source</string>
+    <string name="decompile">Decompile</string>
+
+    <string name="pay_unknown_error">Failure to pay, unknown error</string>
+    <string name="pay_success">Payment succeed, please refresh later</string>
+    <string name="pay_failed">Payment failed %1$d: %2$s</string>
+    <string name="pay_wx_not_installed">WeChat is not installed</string>
+    <string name="pay_wx_not_supported">The current version of WeChat doesn\'t support payment function</string>
+    <string name="pay_cancel">Payment canceled</string>
+
+    <string name="load_failed">Load failed. Please try again later</string>
+
+    <string name="reverse_translate">Reverse translate</string>
+    <string name="dictionary_manager">Dictionary manager</string>
+    <string name="default_dictionary">DefaultDictionary</string>
+    <string name="menu_save_to_dictionary">Save to dictionary</string>
+    <string name="menu_create_dictionary">Create</string>
+    <string name="dictionary_name_exists">Dictionary name already exists</string>
+    <string name="finish_translation">Translation completed</string>
+    <string name="request_permissions_prompt1">MT Manager needs permissions to manage SDCard files and read phone state to statistics users</string>
+    <string name="request_permissions_prompt2">MT Manager needs permissions to manage SDCard files and read phone state to statistics users，please manually check the permissions in the application settings</string>
+    <string name="remove_query">Delete %s ?</string>
+    <string name="filter_all">Display all</string>
+    <string name="filter_translated">Translated</string>
+    <string name="filter_untranslated">Untranslated</string>
+    <string name="filter_exclude">Exclude</string>
+    <string name="dictionary_manager_vip_prompt">VIP members can add more dictionaries</string>
+
+    <string name="remove_batch">Batch remove</string>
+    <string name="dictionary_error">Dictionary error in line %1$d\n%2$s</string>
+    <string name="id_has_been_copied">Entry ID has been copied to the clipboard</string>
+    <string name="axml_search">Search XML</string>
+    <string name="user_get_verification_code">Send</string>
+    <string name="user_forgot_password">Forgot password</string>
+    <string name="user_verification_code">Verification code</string>
+    <string name="user_requesting">Requesting…</string>
+    <string name="user_request_code_success">The email was sent successfully. Please check the code in your email inbox. If you have not received it for a long time, check whether the email is placed in the spam.</string>
+    <string name="user_request_code_failed">Request failed</string>
+    <string name="user_request_code_username_error">Username doesn\'t exist</string>
+    <string name="user_request_code_email_error">Email address is incorrect</string>
+    <string name="user_code_format_error">Verification code format error</string>
+    <string name="user_code_incorrect">Incorrect verification code</string>
+    <string name="user_code_success">Congratulations, your password has been reset to %s\nPlease change your password immediately.</string>
+    <string name="user_request_limit_warn">NOTE: You can only retrieve the password twice a month</string>
+    <string name="user_request_limit">Times this month to retrieve the password that you have run out, please try again next month</string>
+    <string name="info">Info</string>
+    <string name="warn">Warning</string>
+    <string name="jump_to_path">Jump to path</string>
+    <string name="multi_clear_translated_query">Are you sure you clear all the translated content that are selected?</string>
+
+    <string name="success_save">Saved successfully</string>
+    <string name="success_add_to_bookmarks">Added to bookmarks successfully</string>
+    <string name="success_remount_rw">Remount RW successfully</string>
+    <string name="success_remount_ro">Remount RO successfully</string>
+    <string name="success_rename_batch">Batch renamed successful</string>
+    <string name="success_modify">Modified successful</string>
+
+    <string name="fail_save">Saved failed</string>
+    <string name="fail_remount_rw">Remount RW failed</string>
+    <string name="fail_remount_ro">Remount RO failed</string>
+    <string name="fail_rename">Renamed failed</string>
+    <string name="fail_modify">Modified failed</string>
+
+    <string name="date_time_format">Date time format</string>
+
+    <string name="file_menu_sort">Sort file menu</string>
+    <string name="apk_clone">APK Clone</string>
+    <string name="new_package_name">New package name</string>
+    <string name="new_package_name_length_error">Due to the need to modify the \".so\" file, The package name length muse be kept unchanged</string>
+    <string name="processing_xxx">Processing %s</string>
+    <string name="menu_compare_text">Compare text</string>
+    <string name="text_comparator">Text Comparator</string>
+    <string name="compare_many_diff">There are many differences between these two files, calculating the differences may take a long time, do you want to continue?</string>
+    <string name="button_continue">Continue</string>
+    <string name="compare_not_text_files">Only text filed can be compared</string>
+    <string name="compare_too_large">The compared files can not be larger than %s</string>
+    <string name="merge_adjacent_diff">Merge adjacent differences</string>
+    <string name="compare_old_file">Old file</string>
+    <string name="compare_new_file">New file</string>
+    <string name="exchange">Exchange</string>
+
+    <string name="menu_replace">Replace</string>
+    <string name="name_exists">Name already exists</string>
+
+    <string name="no_entries_to_add">There are no entries to add</string>
+    <string name="select_source">Select source</string>
+    <string name="menu_copy_id">Copy ID</string>
+
+    <string name="dex_repair">Repair dex file</string>
+    <string name="dex_repair_instruction">This function can repair the dex file format corruption within a certain range and remove invalid data in the dex file. (for example, some encryption will add special data to the dex so that the dex file cannot be processed normally)</string>
+
+    <string name="extract_first">Please extract the file to the local directory before doing so</string>
+
+    <string name="import_signature_short">Import</string>
+    <string name="import_signature">Import signature</string>
+    <string name="import_signature_success">The signature was successfully imported and the file was saved to:\n%s</string>
+
+    <string name="import_signature_instruction">1. Copy the .jks or .keystore file used to sign the apk on computer to your phone. If you don\'t have this file, you can click 「GENERATE KEY」 below. \n\n2. Locate the file in the MT and open it, enter the password, alias, alias password (consistent with the information you entered when generating the file), and click OK. \n\n3. Finally, choose whether to set a password as needed. (By default, the imported signature can be used directly, no need to fill in the above information again, if you feel unsafe, you can set a password)</string>
+
+    <string name="key_password">Password</string>
+    <string name="key_alias">Alias</string>
+    <string name="key_alias_password">Alias Password</string>
+
+    <string name="key_password_at_lest_6">At least 6 digits</string>
+    <string name="key_alias_required">Please enter an alias</string>
+
+    <string name="key_more_options">More options</string>
+    <string name="key_validity">Validity (years)</string>
+    <string name="key_name">First and Last Name</string>
+    <string name="key_org_unit">Organizational Unit</string>
+    <string name="key_org">Organization</string>
+    <string name="key_city">City or Locality</string>
+    <string name="key_province">State or Province</string>
+    <string name="key_country_code">Country Code (XX)</string>
+
+    <string name="key_encrypt">Do you want to enter a password when using this signature? Leave blank if you do not need it.</string>
+    <string name="key_incorrect_password">Incorrect password or the file is corrupt</string>
+    <string name="key_incorrect_alias">Incorrect alias</string>
+    <string name="key_incorrect_alias_password">Incorrect alias password</string>
+    <string name="key_file_too_large">The file is too large</string>
+
+    <string name="search_by_id">Search by ID</string>
+    <string name="check_for_updates">Check for update</string>
+    <string name="check_for_updates_toast">Checking for new version, please wait</string>
+    <string name="no_update_toast">Your MT is up to date</string>
+    <string name="new_version_toast">Found a new version</string>
+    <string name="download_started">The download has started</string>
+
+    <string name="author">Produced by Bin</string>
+    <string name="qq_group_1">QQ Group 1:</string>
+    <string name="qq_group_2">QQ Group 2:</string>
+    <string name="qq_group_3">QQ Group 3:</string>
+    <string name="qq_group_4">QQ Group 4:</string>
+    <string name="qq_group_5">QQ Group 5:</string>
+    <string name="wechat_Official_account">WeChat:</string>
+
+    <string name="please_click_xxx">Please click [ %s ]</string>
+    <string name="service_has_stopped">Service has stopped</string>
+
+    <string name="connecting_to_the_server">Connecting to the server…</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="toast_disconnect">Press again to disconnect</string>
+    <string name="menu_download">Download</string>
+    <string name="menu_upload">Upload</string>
+    <string name="downloading">Downloading…</string>
+    <string name="toast_move_file_error">Can not move to the same directory</string>
+    <string name="message_move_folder_error">Can not move a folder to itself or subfolder: %s</string>
+    <string name="uploading">Uploading…</string>
+    <string name="ftp_query_upload">File \"%s\" has been modified. Do you want to upload it?</string>
+    <string name="ftp_client">FTP Client</string>
+    <string name="ftp_host">Host</string>
+    <string name="ftp_port">Port</string>
+    <string name="ftp_username">Username(Can be empty)</string>
+    <string name="ftp_password">Password(Can be empty)</string>
+    <string name="ftp_remote_path">Remote path(Can be empty)</string>
+    <string name="ftp_remark">Remark</string>
+    <string name="ftp_toast_enter_host">Please enter the host</string>
+    <string name="ftp_connection_test">Test</string>
+    <string name="ftp_toast_test_success">Test success</string>
+    <string name="ftp_compression_enable">Compressed transmission</string>
+    <string name="ftp_charset">Charset</string>
+    <string name="ftp_toast_charset_not_exists">Charset name do not exists</string>
+    <string name="user_modify_email">Modify email</string>
+    <string name="user_enter_new_email">New email</string>
+
+    <string name="search_subdirectories">Search subdirectories</string>
+    <string name="start_new_search">Start a new search</string>
+    <string name="search_in_current_results">Search in current results</string>
+    <string name="current_results">&lt;Current search results&gt;</string>
+    <string name="undo_search">Undo search</string>
+    <string name="tag_search">Search</string>
+    <string name="tag_history">History</string>
+    <string name="tag_explorer">Explorer</string>
+    <string name="recently_opened">Recently</string>
+    <string name="modified">Modified</string>
+    <string name="save_as_project">Save as Project</string>
+    <string name="dex_project">Projects</string>
+    <string name="project_name">Project name</string>
+    <string name="project_name_exists">Project name exists</string>
+    <string name="project_name_not_valid">Project name is invalid</string>
+    <string name="save_as_project_info">After saving as a project, your current changes will not be lost after exiting and can be reopened in the sidebar of the main interface</string>
+    <string name="file_has_been_save_to">The file has been saved to %s</string>
+    <string name="navigation">Navigation</string>
+    <string name="smali2java">Smali to Java</string>
+    <string name="delete_record">Deleted record</string>
+    <string name="clear_search_results">Clear search results</string>
+    <string name="clear_search_results_confirm">Are you sure to clear all search results?</string>
+    <string name="dex_editor_plus">Dex Editor plus</string>
+    <string name="tutorial">Tutorial</string>
+
+    <string name="reload">Reload</string>
+    <string name="switch_decompiler">Switch decompiler</string>
+    <string name="decompiler">Decompiler</string>
+    <string name="user_name_or_email">Username/Email</string>
+    <string name="user_login_email_not_exists">Email doesn\'t exists</string>
+    <string name="attr_check">Check</string>
+    <string name="arsc_confused">It was detected that the resource names was obfuscated in the arsc file, so that some resource id transitions were automatically disabled</string>
+    <string name="arsc_not_found">You can place the resources.arsc and xml files in the same directory to turn on the resource id to name function</string>
+    <string name="id_to_name_switch">ID2Name</string>
+    <string name="query_reload">Do you want to reload?</string>
+    <string name="use_old_cloning_method">Use old cloning method</string>
+    <string name="compare_the_difference">Compare the difference</string>
+    <string name="can_not_show_smali_differences">This is a new smali file or the file was moved</string>
+    <string name="only_show_differences_and_contexts">Only show differences and contexts</string>
+    <string name="restore_this_backup">Restore</string>
+    <string name="restore_this_backup_prompt">The %1$s.bak has been renamed to %1$s and the original %1$s has been renamed to %1$s.bak</string>
+    <string name="apk_installation_signature_inconsistent">The apk and the installed application\'s signature information is inconsistent, whether to uninstall the application first? (You can turn off APK installation verification in preferences)</string>
+    <string name="apk_installation_need_sign">The apk needs to be signed before it can be installed. (You can turn off APK installation verification in preferences)</string>
+    <string name="apk_installation_verify_title">APK installation verification</string>
+    <string name="apk_installation_verify_summary">Verify the signature and version code before installing apk.</string>
+    <string name="storage_grant_access_prompt">Due to system restrictions, you need to authorize the MT Manager to obtain full access to the directory. After you click OK to enter the authorization page, you can directly click the button at the bottom to complete the authorization. \n\n(If you have root privileges, you may be able to access the directory without authorization. At this time, you can turn off "Use API to access external storage" in the settings to hide the prompt.)</string>
+    <string name="storage_grant_access_failed1">The target storage device you selected is incorrect.</string>
+    <string name="storage_grant_access_failed2">Where you select is not the root of the storage.</string>
+    <string name="try_again">Try again</string>
+    <string name="use_external_storage_api">Use API to access external storage</string>
+    <string name="use_external_storage_api_summary">Using the Document API to access external storage and USB device.</string>
+    <string name="save_and_keep_translation_data">Export the translation data to arsc when saving file</string>
+
+    <string name="file_copy_and_replace">Copy and replace</string>
+    <string name="file_copy_but_keep">Copy but keep both files</string>
+    <string name="file_move_and_replace">Move and replace</string>
+    <string name="file_move_but_keep">Move but keep both files</string>
+    <string name="file_skip_this_file">Skip this file</string>
+    <string name="apply_to_subsequent_conflict">Apply to subsequent conflict</string>
+
+    <string name="apply_to_sub_files">Also apply to all sub-files</string>
+
+    <string name="double_click_to_select_text">Double-click to select text</string>
+
+    <string name="search_constant">Search constant</string>
+    <string name="search_declaration">Search declaration</string>
+    <string name="search_code">Search code</string>
+
+    <string name="resource_querier">Resource querier</string>
+    <string name="query">Query</string>
+    <string name="stop">Stop</string>
+    <string name="need_float_window_permission">You need to open the floating window permission for the MT to use this feature</string>
+
+    <string name="open_now">Open now</string>
+    <string name="not_open">Cancel</string>
+    <string name="load_failed_check_network">Load failed. Please check your internet connection</string>
+    <string name="load_failed_unknown_error">Load failed. Unknown error</string>
+
+    <string name="help">Help</string>
+    <string name="resource_querier_help">Search resource: @/? + resource name or hexadecimal id, such as @string/xxx, ?attr/xxx, @7f080001\n\nCheck color: # + hexadecimal color value, support four formats like #RGB, #ARGB, #RRGGBB, #AARRGGBB, such as #F00\n\nDigital conversion: Just input the number (When the input value is a resource ID, the corresponding resource information will be additionally displayed), MT will recognize the digital format according to the following format.\n\nBinary: Must start with 0b, followed by 0 or 1, such as 0b1101\n\nOctal: Must start with 0, followed by 0–7, such as 0701\n\nDecimal: Composed of 0–9, can not start with 0 unless it is negative or zero, such as 1234\n\nHex: Composed of 0-F, if it does not contain A-F, it must start with 0x, such as F0F0, 0x1234\n\nOnly decimal can start with a negative sign, all digital system are not case-sensitive.\n\nNumeric parts can be added underlines or spaces for better readability, such as 0b1000_0000_1111</string>
+
+    <string name="customize_su_command">Customize su command</string>
+    <string name="customize_su_command_summary">Leave blank for automatic identification.</string>
+
+    <string name="floating_button_stick_to_edge">Floating ball stick to the edge after 3s of inactivity</string>
+
+    <string name="kill_signature_verification">Kill Signature Verification</string>
+    <string name="kill_signature_verification_summary">This function can hook the application\'s PackageManager.getPackageInfo() and modify the signatures returned by it. It applies only to the application that verifies the signature in this way. \n\nMT gets the original signature data from the META-INF/XXX.RSA file, so make sure that the RSA signature information file in the APK being processed is unmodified.\n\nIf the current file is not the original APK, please add the META-INF/XXX.RSA (DSA) file in the original APK to the current APK.</string>
+    <string name="sign_the_exported_apk">The signature key is only used to sign the output apk.</string>
+
+    <string name="exactly_match">Exactly match</string>
+
+    <string name="res_anti_confuse">Resources Anti-Confuse</string>
+    <string name="rename_arsc_resource">Rename Arsc resource</string>
+    <string name="identify_file_extension">Identify the file extension</string>
+
+    <string name="full_path_has_been_copied">The full path has been copied to the clipboard.</string>
+
+    <string name="arsc_entry_name">Entry name</string>
+    <string name="arsc_entry_id">Entry ID</string>
+    <string name="arsc_entry_id_exists">The entry with this ID already exists.</string>
+    <string name="arsc_entry_id_maximum">The maximum ID can only be %04X.</string>
+    <string name="arsc_entry_name_can_not_empty">Please input a entry name.</string>
+    <string name="arsc_entry_parent">Parent</string>
+    <string name="arsc_value_pick_color">Pick</string>
+    <string name="arsc_value_id">Value ID</string>
+
+    <string name="play_store_pay">Pay by Play Store</string>
+    <string name="play_store_service_not_available">Play Store service is not available.</string>
+    <string name="play_store_pay_canceled">User canceled</string>
+    <string name="play_store_pay_error">Purchase failed. Result code: %1$d. Response: %2$d</string>
+
+    <string name="oat2dex">Do you want to convert "%s" to dex file?</string>
+
+    <string name="hex_editor">Hex Editor</string>
+    <string name="open_with_hex_editor">Hex Editor</string>
+    <string name="menu_select">Select</string>
+    <string name="menu_copy_as">Copy as…</string>
+    <string name="menu_paste_from">Paste from…</string>
+    <string name="menu_insert">Insert</string>
+    <string name="menu_goto_xxx">Goto…</string>
+    <string name="menu_goto">Goto</string>
+    <string name="error_value_out_of_range">Value is out of range.</string>
+
+    <string name="hex_select_start_position">Start</string>
+    <string name="hex_select_end_position">End</string>
+    <string name="hex_select_length">Length</string>
+    <string name="hex_select_switch">Using Start address + Length</string>
+
+    <string name="toast_clipboard_has_no_text">Clipboard has no text</string>
+    <string name="toast_text_format_error">Text format error</string>
+    <string name="high_byte_first">High byte first</string>
+    <string name="hex_search_data_type">Data type</string>
+    <string name="enter_content">Please enter the content</string>
+    <string name="empty_content">Empty</string>
+    <string name="data_not_found">Can\'t find the data.</string>
+    <string name="inspector">Inspector</string>
+
+    <string name="hex_hex_text">Hex Text</string>
+    <string name="hex_ascii_string">Ascii String</string>
+    <string name="hex_unicode_string">Unicode String</string>
+    <string name="hex_utf8_string">UTF-8 String</string>
+    <string name="hex_gbk_string">GBK String</string>
+    <string name="hex_signed_byte">Signed Byte</string>
+    <string name="hex_unsigned_byte">Unsigned Byte</string>
+    <string name="hex_signed_short">Signed Short</string>
+    <string name="hex_unsigned_short">Unsigned Short</string>
+    <string name="hex_signed_int">Signed Int</string>
+    <string name="hex_unsigned_int">Unsigned Int</string>
+    <string name="hex_signed_long">Signed Long</string>
+    <string name="hex_unsigned_long">Unsigned Long</string>
+    <string name="hex_float">Float</string>
+    <string name="hex_double">Double</string>
+
+    <string name="hex_editor_not_vip_message">Hex Editor is a VIP feature. You can still try out all the features, but you cannot save the changes.</string>
+    <string name="hex_editor_verify_vip_fail">We can not verify your VIP status, please make sure that the internet is connected.\nNow you can experience all the features of Hex Editor, but can not save changes.</string>
+
+    <string name="document">Document</string>
+
+    <string name="disable_permission_in_list">Disable permission in file list</string>
+    <string name="disable_permission_in_list_on">Show \"time + size\" for file in all path.</string>
+    <string name="disable_permission_in_list_off">Show \"permission + size\" for file in non-storage path.</string>
+
+    <string name="menu_dex_merge">Merge dex</string>
+    <string name="dex_merge_too_many_method_references">Merge failed, too many method references in Dex. You can try to merge fewer dex files or use the Dex Redivide function of the apk to process.</string>
+    <string name="dex_merge_too_many_field_references">Merge failed, too many field references in Dex. You can try to merge fewer dex files or use the Dex Redivide function of the apk to process.</string>
+
+    <string name="kill_signature_verification_declaration">Disclaimer: This function is only used for APP security testing. Please do not use it for illegal purposes. We do not assume any legal liability arising therefrom. Using this function means that you agree to the declaration. If your product fails this test, contact us for technical support.</string>
+    <string name="user_agreement">User Agreement</string>
+    <string name="user_agreement_summary">Already read and agree.</string>
+    <string name="user_agreement_read_and_agree">Read and agree</string>
+    <string name="user_agreement_refuse">Refuse</string>
+
+    <string name="plugin">Plugin</string>
+    <string name="symbol_input">Symbol input bar</string>
+    <string name="custom_symbols">Custom symbols</string>
+    <string name="reset">Reset</string>
+
+    <string name="multi_dex_contain_duplicate_class">%1$s and %2$s contain duplicate classes: %3$s</string>
+    <string name="multi_dex_select_dex">Select dex</string>
+    <string name="generating_dex">Generating dex file…</string>
+    <string name="select_at_least_one">Please select at least one</string>
+
+    <string name="ftp_passive_mode">Passive mode</string>
+
+    <string name="message_too_many_search_results">%s results found so far. Are you sure you wish to continue?</string>
+    <string name="enable_float_window_permission_manually">Failed to open the setup interface. Please go to the Settings manually to enable the floating window permission for MT Manager.</string>
+    <string name="search_resource_value">Search resource value</string>
+
+    <string name="check_translation_format_control">Check</string>
+    <string name="check_translation_format_control_prompt" formatted="false">Check if the format control characters (such as %s, %1$d, etc.) are translated correctly.</string>
+    <string name="check_translation_format_control_no_error">No errors found.</string>
+
+    <string name="dex2jar">Dex2Jar</string>
+    <string name="dex2jar_prompt">Do you want to convert this dex file to a jar file?</string>
+
+    <string name="ftp_test_list_file">Testing list file… (If you get stuck in this step, try switching the active/passive mode.)</string>
+
+    <string name="replace_in_current_results">Replace in current results</string>
+    <string name="dex_plus_replace_count">Total replaced %1$d times in %2$d classes.</string>
+
+    <string name="dex_backup">Backup</string>
+    <string name="dex_backup_revert">Revert</string>
+    <string name="dex_backup_create">Create</string>
+    <string name="dex_backup_delete">Delete</string>
+    <string name="dex_backup_rename">Rename</string>
+    <string name="dex_backup_create_prompt">Create a backup for the current modification status, just like the SaveData when you play games~</string>
+    <string name="dex_backup_revert_prompt">Did you want to revert to backup \"%s\"? The current modification status will be lost after this operation.</string>
+    <string name="dex_backup_name">Name</string>
+
+    <string name="tag_string_pool">Strings</string>
+    <string name="apply_changes">Apply changes</string>
+
+    <string name="enable_magnifier">Enable magnifier</string>
+
+    <string name="remove_classes_query">Do you want to delete the selected %d class(es)?</string>
+    <string name="locate">Locate</string>
+
+    <string name="install_file_transfer_message">According to Google\'s request, we upgraded MT\'s targetSDK to 26, and used a new API to send files to external APP. If these apps are not upgraded in time, the files may not be accepted normally, resulting in the inability to open files in the MT through the external APP. You can solve this problem by installing the plugin provided by MT.</string>
+
+    <string name="generate_backup_file">Generate backup file</string>
+    <string name="generate_backup_file_summary">Automatically rename the original file to a .bak backup file when saving the file.</string>
+
+    <string name="copy_text_too_large">The selected text is too large to copy</string>
+
+    <string name="auto_sign">Auto sign</string>
+    <string name="auto_sign_switch">Enable auto sign</string>
+    <string name="signing">Signing…</string>
+    <string name="enter_signature_password">Please enter signature password</string>
+
+    <string name="class_name">Class name</string>
+    <string name="class_name_format_error">Class name format error</string>
+    <string name="enter_class_name">Please enter class name</string>
+    <string name="add_to">Add to</string>
+
+    <string name="sel_continuously_dex_plus_tip">You can make continuous selections by long pressing two classes separately.</string>
+    <string name="sel_continuously_dex_plus_must_same_package">Can only select consecutive classes under the same package name.</string>
+
+    <string name="account_freeze">Your account has been frozen</string>
+    <string name="connect_to_server_timeout">Server request has timed out</string>
+    <string name="password_can_not_all_num">Password cannot all be numbers</string>
+    <string name="simple_password_warn">Your password is too simple, please change your password in time. In the future, we will forbid the weak password account login.</string>
+
+    <string name="translation_engine_empty">You have not installed or enabled any translation plugins.</string>
+    <string name="installed_version">Installed</string>
+    <string name="apk_path">APK path</string>
+    <string name="plugin_id">Plugin ID</string>
+    <string name="plugin_sdk_version">Plugin SDK</string>
+    <string name="plugin_manager">Plugin Manager</string>
+    <string name="plugin_manager_short">Manager</string>
+    <string name="plugin_manifest_error">File parsing failed: manifest.json</string>
+    <string name="plugin_sdk_error">The current version of MT does not support the plugin SDK, please update to the latest version. \n (plugin SDK: %1$d, maximum support: %2$d)</string>
+    <string name="plugin_id_error">The plugin ID is malformed and can only consist of numbers, letters, underscores, dots, and cannot start with a dot.</string>
+    <string name="plugin_degrade_error">The plugin cannot be downgraded. Please uninstall the installed high version plugin.</string>
+    <string name="plugin_jar_compile_error">Jar compilation failed: %s</string>
+    <string name="plugin_install_success">Successful installation</string>
+
+    <string name="install_overlay_query">Covering installation?</string>
+    <string name="install_overlay_message">Installed：%1$s\nReady to install：%2$s</string>
+
+    <string name="plugin_initializing">Initializing…</string>
+    <string name="plugin_installing">Installing…</string>
+    <string name="plugin_compiling">Compiling… %s</string>
+    <string name="plugin_need_vip">Plugin function is only available to VIP members.</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="uninstall_query">Do you want to uninstall %s ?</string>
+    <string name="uninstall_success">Uninstall successfully</string>
+    <string name="log">Log</string>
+    <string name="clear_log_query">Do you want to clear all logs?</string>
+    <string name="plugin_all_log">All logs</string>
+    <string name="plugin_system_log">System logs</string>
+    <string name="plugin_empty">You have not installed any plugins yet.</string>
+
+    <string name="auto_sign_settings_tip">You can open the signature settings by long holding the button.</string>
+    <string name="auto_sign_short">Auto sign</string>
+
+    <string name="enable_bin_convert">Enable binary conversion</string>
+    <string name="enable_oct_convert">Enable octal conversion</string>
+
+    <string name="cloud_backup">Cloud backup</string>
+    <string name="cloud_backup_push">Backup to the cloud</string>
+    <string name="cloud_backup_push_summary">Back up your local data to the cloud.</string>
+    <string name="cloud_backup_pushing">Backing up…</string>
+    <string name="cloud_backup_push_success">Backup success</string>
+    <string name="cloud_backup_pull">Recover from the cloud</string>
+    <string name="cloud_backup_pull_summary">Restore your cloud data to your local.</string>
+    <string name="cloud_backup_pulling">Restoring…</string>
+    <string name="cloud_backup_pull_success">Recovery success</string>
+    <string name="cloud_backup_merge_mode_help">Restoring data using merge mode will retain data such as current bookmarks and FTP clients, only updating and replacing the current data.</string>
+
+    <string name="cloud_backup_push_options0">Preferences</string>
+    <string name="cloud_backup_push_options1">Bookmarks</string>
+    <string name="cloud_backup_push_options2">FTP Clients</string>
+    <string name="cloud_backup_push_options3">Default opening method</string>
+    <string name="cloud_backup_push_options_merge_mode">(Use merge mode to recover data)</string>
+
+    <string name="clear_data">Clear data</string>
+    <string name="clear_data_query">Do you want to clear all data of %s ?</string>
+
+    <string name="plugin_unknown_type_of_interface">Unknown type of interface: %s</string>
+
+    <string name="plugin_center">Plugin Center</string>
+    <string name="view_in_plugin_center">View in plugin center</string>
+    <string name="no_more_data">No more data</string>
+    <string name="load_fail_click_to_try_again">Failed to load, click to try again.</string>
+    <string name="menu_developer">Developer</string>
+    <string name="developer_center">Developer Center</string>
+    <string name="update_notes">Update notes</string>
+    <string name="no_update_notes">No updates</string>
+    <string name="developer_register_msg">You are not a plugin developer, do you register now?</string>
+    <string name="developer_register">Register</string>
+    <string name="developer_name_cannot_contains_spaces">Developer name cannot contain spaces.</string>
+    <string name="developer_input_name">Please enter your developer name.</string>
+    <string name="developer_input_name_summary">The developer name will be displayed on the plugin information page, and the developer name will not be changed after registration.</string>
+    <string name="developer_input_name_make_sure">Do you use \"%s\" as your developer name? Once registered, you will not be able to change!</string>
+    <string name="developer_name_exists">Developer name already exists.</string>
+    <string name="developer_op">Operation</string>
+    <string name="developer_op_edit">Edit information</string>
+    <string name="developer_op_update">Upload new version</string>
+    <string name="developer_op_suspend">Suspend plugin</string>
+    <string name="developer_op_resume">Resume plugin</string>
+    <string name="developer_op_delete">Delete plugin</string>
+    <string name="developer_op_publish">Publish plugin</string>
+    <string name="developer_plugin_empty_msg">You have not published any plugins.</string>
+    <string name="publish_select_plugin">Select plugin to publish</string>
+    <string name="publish_no_plugin_available">Please install the plugin you want to publish locally!</string>
+    <string name="update_no_plugin_available">Please install the plugin you want to update locally!</string>
+
+    <string name="submit">Submit</string>
+    <string name="submitting">Submitting…</string>
+    <string name="plugin_publish_success">Submitted successfully, the plugin has been released!</string>
+    <string name="plugin_publish_success_review">Submitted successfully, the plugin will be released after the review!</string>
+    <string name="plugin_update_success">Submitted successfully, new version has been released!</string>
+    <string name="plugin_update_success_review">Submitted successfully, the new version will be released after the review!</string>
+    <string name="plugin_edit_success">Submitted successfully, information has been released!</string>
+    <string name="plugin_edit_success_review">Submitted successfully, the information will be released after the review!</string>
+
+    <string name="plugin_description">Plugin description</string>
+    <string name="plugin_description_require">Please enter the plugin description.</string>
+    <string name="plugin_update_notes">Update notes</string>
+    <string name="plugin_update_notes_require_default">Please enter the update notes in the default language.</string>
+    <string name="can_be_empty">Can be empty</string>
+    <string name="default_language">Default language</string>
+
+    <string name="plugin_published">The plugin has been published.</string>
+    <string name="plugin_package_size_exceeds_limit">Plugin size exceeds limit (%s).</string>
+    <string name="plugin_low_version_code">You need to install the new version of the plugin locally before you can update it.</string>
+    <string name="identity_expired">Identity has expired.</string>
+    <string name="plugin_parse_fail">Plugin installation package parsing failed.</string>
+
+    <string name="plugin_state_review">Plugin being reviewing</string>
+    <string name="plugin_state_reject">Plugin review failed</string>
+    <string name="plugin_state_off">Plugin has been suspended</string>
+    <string name="plugin_state_version_review">New version being reviewing</string>
+    <string name="plugin_state_version_reject">New version review failed</string>
+
+    <string name="plugin_not_found_in_center">Plugin not found</string>
+
+    <string name="plugin_developer_name">Developer: %s</string>
+    <string name="plugin_provide">Plugin provides:</string>
+    <string name="plugin_provide_none">0 interfaces</string>
+
+    <string name="installed">Installed</string>
+    <string name="updateable">Updateable</string>
+    <string name="no_updateable_plugin">No plugins to update</string>
+    <string name="plugin_install_incompatible">The plugin is not compatible with the current MT version, you can upgrade the MT to the latest version, or try to install the historical version of the plugin.</string>
+    <string name="download_fail">Download failed</string>
+
+    <string name="developer_op_suspend_query">Do you want to suspend the plugin \"%s\"?</string>
+    <string name="developer_op_delete_query">You are deleting the plugin \"%s\". This operation cannot be undone. To confirm the deletion, please enter the calculation result:</string>
+    <string name="developer_op_delete_cal_mistake">Wrong result</string>
+
+    <string name="plugin_search_no_results">No related plugins found.</string>
+    <string name="official_plugin">Official plugin</string>
+
+    <string name="historic_version">Historic version</string>
+    <string name="historic_version_empty">No history version</string>
+
+    <string name="load_last_edited_ask">Did you load the last edited content?</string>
+
+    <string name="filter_file_tip">You can also press and hold the \"Synchronize\" button to filter.</string>
+
+    <string name="extract_apk">Extract APK</string>
+    <string name="user_app">User APP</string>
+    <string name="system_app">System APP</string>
+
+    <string name="plugin_must_contain_default_language">The plugin must contain the default language.</string>
+
+    <string name="show_blank_symbol">Show blank symbol</string>
+    <string name="show_blank_symbol_summary">Display spaces as dots and tabs as horizontal lines.</string>
+    <string name="tab_size">Tab size</string>
+    <string name="hide_single_space">Hide single space</string>
+    <string name="hide_single_space_summary">Don\'t display spaces which are not adjacent to other blank symbols.</string>
+
+    <string name="ignore">Ignore</string>
+    <string name="string_pool_changed_query">You have modified the contents of the string pool, do you want to apply the changes?</string>
+
+    <string name="kill_signature_native_hook">Use enhanced version (some apps may not be compatible)</string>
+
+    <string name="switch_">Switch</string>
+    <string name="no_strings_found">No strings found</string>
+
+    <string name="extract_apk_button">Extract APK</string>
+    <string name="extract_apk_path">APK storage path</string>
+    <string name="extract_apk_pattern">Name pattern</string>
+    <string name="extract_apk_pattern_instruction">{A} Application name\n{P} Package name\n{V} Version name\n{C} Version code</string>
+    <string name="extract_apk_pattern_error">The name pattern must contain at least one variable!</string>
+    <string name="app_details">Details</string>
+    <string name="launch_app">Launch</string>
+    <string name="sel_continuously_item_tip">You can make continuous selections by long pressing two items separately.</string>
+    <string name="extract_apk_continuously_query">Do you want to extract the %d apk files you selected?</string>
+
+    <string name="zip_query_update_files">The following files have been modified, do you want to update them?</string>
+    <string name="ftp_query_upload_files">The following files have been modified, do you want to upload them?</string>
+
+    <string name="operation_failed_file_type_conflict">Operation failed, file type conflict: %s</string>
+
+    <string name="press_again_to_back">Press again to back</string>
+    <string name="file_move_failed">File move failed: %s</string>
+
+    <string name="menu_show_hidden_file">Hidden files</string>
+
+    <string name="acknowledgement">Acknowledgement</string>
+    <string name="acknowledgement_summary">People and open source projects that helped the development of MT Manager.</string>
+
+    <string name="file_query_compile_and_save">Do you want to compile and save the file?</string>
+    <string name="files_query_compile_and_save">Do you want to compile and save those files?</string>
+
+    <string name="renames_prompt">{P}: Filename prefix, such as abc in abc.txt\n{S}: Filename suffix, such as .txt in abc.txt\n{N}: A number that increments from N, the N needs to be a specific number, such as {0}, {1}\n{zN}: Similar to {N}, the difference is that it will be aligned with zeros. For example, rename {z8} will get 08, 09, 10, 11…\n\nIf you don\'t use the replace function, leave the text to find blank</string>
+
+    <string name="property_protection">Protection</string>
+    <string name="no_protection">No protection</string>
+    <string name="fake_protection">No protection (fake %s)</string>
+    <string name="detecting">Detecting…</string>
+
+    <string name="dex_decrypt_string">Decrypt Dex Strings</string>
+    <string name="dex_decrypt_string_summary">Try to restore the encrypted strings in Dex. A number of string encryption tools are currently supported.</string>
+    <string name="dex_decrypt_string_empty">No decryptable data found</string>
+    <string name="dex_decrypt_string_doing">Decrypting strings…</string>
+    <string name="dex_decrypt_string_success">If the processing is successful, you can click "Details" to view the specific changes.</string>
+    <string name="dex_decrypt_string_details">Details</string>
+
+    <string name="multi_dex_exclude_duplicate_classes_msg">The Dex file contains duplicate classes and the following classes have been automatically excluded: \n\n%s</string>
+
+    <string name="dex_res_querier_tip1">Can\'t find the resources.arsc file!</string>
+    <string name="dex_res_querier_tip2">Can\'t find the resources.arsc file, you can copy it into the data folder of the project directory.</string>
+
+    <string name="dex_decrypt_string_enhanced">Use the enhanced algorithm</string>
+
+    <string name="arsc_custom_resource_name">Custom arsc resource name (VIP)</string>
+
+    <string name="signing_file_vx">Signing file (%s)…</string>
+
+    <string name="dex_anti_confuse">Dex Anti-Confuse</string>
+    <string name="dex_anti_confuse_generate_mapping_file">Generate mapping file</string>
+    <string name="dex_anti_confuse_introduction">Some apks confuse dex with symbolic names that are difficult to distinguish with the naked eye, such as Oo0, whitespace, etc., making it difficult to code analysis. \n\nThis function can quickly re-confuse dex, rename these special symbol names to easily identifiable names, and eliminate visual interference. \n\nIn addition, MT will try to fix the code of Java reflection operation, but if the strings is encrypted, it may cause the repair to fail. In this case, decrypt the strings first, or use recovery mode before installing and running.</string>
+    <string name="dex_anti_confuse_recovery_mode">Use recovery mode</string>
+    <string name="dex_anti_confuse_recovery_introduction">Recovery mode is the reverse operation of normal mode, this mode restores the apk processed in normal mode to its original symbolic name.\n\nThis process needs to read the mapping file, so make sure there is a mapping file in the apk.\n\nIf the apk processed in the normal mode can not be started, but you still want to modify it, you can try to use the recovery mode after the modification, and then install and run it.</string>
+    <string name="mapping_file_not_found">Can not find the mapping file</string>
+
+    <string name="terminal_simulator">Terminal Simulator</string>
+    <string name="terminal_initializing">Initializing terminal…</string>
+    <string name="terminal_initializing_download">Downloading expansion pack…</string>
+    <string name="terminal_initializing_install">Installing…</string>
+    <string name="terminal_reset">Reset</string>
+    <string name="terminal_reset_query">Do you want to close the current session and start a new one?</string>
+    <string name="terminal_process_completed">[Process completed %s- press Enter]</string>
+    <string name="terminal_keep_dark">Keep black theme</string>
+    <string name="terminal_keep_dark_summary">The terminal still uses black theme in day mode.</string>
+    <string name="terminal_start_path">Start path</string>
+
+    <string name="input_method">Input method</string>
+    <string name="execute_with_root_privileges">Execute with root privileges</string>
+    <string name="execute_with_normal_privileges">Execute with normal privileges</string>
+
+    <string name="terminal_close">Close</string>
+    <string name="terminal_close_query">Do you want to close the current session?</string>
+    <string name="minimize">Minimize</string>
+
+    <string name="wakelock">WakeLock</string>
+    <string name="wakelock_on">WakeLock is acquired</string>
+    <string name="wakelock_off">WakeLock is released</string>
+    <string name="wakelock_notification_menu_acquire">Acquire Lock</string>
+    <string name="wakelock_notification_menu_release">Release Lock</string>
+
+    <string name="terminal_session_name">Session name</string>
+    <string name="terminal_session_name_d">Session[%d]</string>
+    <string name="terminal_session_list">Session list</string>
+    <string name="terminal_new_session">New session</string>
+
+    <string name="menu_open_terminal">Open terminal</string>
+
+    <string name="terminal_new_system_session">New system session</string>
+    <string name="terminal_system_session_name_d">System Session[%d]</string>
+    <string name="terminal_close_all">Close all sessions</string>
+    <string name="terminal_close_others">Close other sessions</string>
+    <string name="terminal_su2_help">About su command</string>
+    <string name="terminal_su2_help_summary">If an error message appears after entering the su command on the terminal, you can try to type su2 to call the system\'s original su command.</string>
+
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="clear_records">Clear records</string>
+    <string name="enable_floating_window">Enable floating window</string>
+    <string name="disable_floating_window">Disable floating window</string>
+
+    <string name="apks_convert_to_apk">Convert to apk</string>
+
+    <string name="qq">QQ</string>
+    <string name="wechat">WeChat</string>
+
+    <string name="user_bind">Bind</string>
+    <string name="user_bind_success">Binding success</string>
+    <string name="user_register_new_account">Register new account</string>
+    <string name="user_bind_existing_account">Bind an existing account</string>
+    <string name="user_no_binding">No binding</string>
+
+    <string name="user_bind_xx">Bind %s</string>
+    <string name="user_change_binding">Change binding</string>
+    <string name="user_unbind">Unbind</string>
+    <string name="user_unbind_query">Do you want to remove the binding?</string>
+    <string name="user_unbind_success">Unbind successfully</string>
+    <string name="user_unbind_need_set_password">Please set a password before unbinding!</string>
+
+    <!-- QQ or WeChat-->
+    <string name="user_bind_fail1">The MT account has been bound to other %s accounts.</string>
+    <string name="user_bind_fail2">The %s account has been bound to other MT accounts.</string>
+    <string name="user_not_bind_message">%s login succeeded. Please register or bind the MT account.</string>
+
+    <string name="third_party_account">Third party account</string>
+    <string name="third_party_account_login">OR</string>
+    <string name="user_account_settings">Account setting</string>
+    <string name="user_set_password">Set password</string>
+    <string name="user_set_password_info">You have not set a password yet</string>
+    <string name="user_change_password_info">Click to change password</string>
+    <string name="user_email_inactivated">Inactivated</string>
+    <string name="user_email_inactivated_with_address">%s (inactivated)</string>
+    <string name="user_activating">Activating…</string>
+    <string name="user_active_email">Activate email</string>
+    <string name="user_active_email_success">Activation Successful</string>
+    <string name="user_active_email_hint">Email (modifiable)</string>
+    <string name="user_logout_query">Do you really want to log out?</string>
+    <string name="user_new_email_same_as_old">The new email cannot be the same as the original email</string>
+    <string name="user_verify_by_password">Verify by password</string>
+    <string name="user_verify_by_email">Verify by email</string>
+
+    <string name="user_about_account_lending">About account lending</string>
+    <string name="user_about_account_lending_message">The MT Manager account is for personal use only, and all users cannot lend the account in any public place. Once the situation is discovered, the official will have the right to freeze the account! \nIf you find that someone else is lending an account, please report it to us. After the verification, we will give the whistleblower a VIP key equivalent to the reported account, and will not disclose your identity.</string>
+
+    <string name="mt_shop">Shop (Chinese):</string>
+    <string name="mt_forum">Forum (Chinese):</string>
+
+    <string name="optimize_v2_apk_message">This is an apk signed with the scheme v2, optimization will destroy the v2 signature. You need to re-sign it to install after optimization, continue?</string>
+
+    <string name="menu_reload_file">Reload file</string>
+    <string name="menu_reload_file_with_charset">Reload file with charset</string>
+    <string name="menu_reload_file_warn">The current file has been modified. Do you want to discard the changes and reload the file?</string>
+    <string name="menu_set_saving_charset">Set the saved encoding</string>
+    <string name="menu_statistics">Statistics</string>
+    <string name="menu_statistics_info">Byte count: %1$d\nCharacter count: %2$d\nWord count：%3$d\nChinese count：%4$d\nLine count：%5$d</string>
+    <string name="menu_copy_line">Copy line</string>
+    <string name="menu_duplicate_line">Duplicate line</string>
+    <string name="menu_delete_line">Delete line</string>
+    <string name="menu_convert_to_uppercase">Convert to uppercase</string>
+    <string name="menu_convert_to_lowercase">Convert to lowercase</string>
+    <string name="menu_convert_not_select_text">Please select the text to be converted first</string>
+    <string name="menu_increase_indent">Increase Indent</string>
+    <string name="menu_decrease_indent">Decrease Indent</string>
+    <string name="menu_toggle_comment">Toggle comment</string>
+    <string name="menu_syntax">Syntax</string>
+    <string name="reset_custom_symbol_query">Do you want to restore custom symbols to the default?</string>
+
+    <string name="dex2smali">Dex2Smali</string>
+    <string name="dex2smali_prompt">Do you want to convert this dex file to smali files?</string>
+
+    <string name="email_bind_multi_accounts">This email is bound to multiple accounts, please log in with your username</string>
+
+    <string name="menu_compare_dex">Compare dex</string>
+    <string name="dex_comparator">Dex Comparator</string>
+    <string name="dex_comparator_no_diff">No different class found</string>
+    <string name="dex_comparator_added_class">This is an added class</string>
+    <string name="dex_comparator_removed_class">This is a removed class</string>
+    <string name="ignore_debug_info">Ignore debug information</string>
+    <string name="ignore_compilation_optimizations">Ignore compilation optimizations</string>
+    <string name="full_class_name_has_been_copied">The full class name has been copied to the clipboard.</string>
+
+    <string name="name_format_error">Name format error</string>
+
+    <string name="no_difference">No difference</string>
+    <string name="next_difference">Next difference</string>
+    <string name="previous_difference">Previous difference</string>
+
+    <string name="comparator_ignore">Ignore</string>
+    <string name="comparator_not_ignore">Do not ignore</string>
+    <string name="comparator_trim_wh">Trim whitespaces</string>
+    <string name="comparator_ignore_wh">Ignore whitespaces</string>
+    <string name="comparator_ignore_wh_l">Ignore whitespaces and empty lines</string>
+
+    <string name="dex_repair_multi_msg">Do you want to repair the %d selected dex files?</string>
+    <string name="menu_dex_repair">Repair dex</string>
+
+    <string name="dex_comparator_hide_added">Hide added classes</string>
+    <string name="dex_comparator_hide_removed">Hide removed classes</string>
+    <string name="dex_comparator_hide_changed">Hide changed classes</string>
+
+    <string name="dex_redivide">Dex Redivide</string>
+    <string name="dex_redivide_mode">Mode</string>
+    <string name="dex_redivide_processing">Redividing…</string>
+    <string name="dex_redivide_msg">If multiple dexes are generated after processing, the app will not run on systems under Android 5.0.</string>
+    <string name="dex_redivide_limit">Limit by number of methods</string>
+    <string name="dex_redivide_limit_opt">Number of methods</string>
+    <string name="dex_redivide_limit_msg">Note: Limit the number of methods in each dex, the maximum is 65536, the greater the limit, the fewer the number of dex generated, and the more the contrary. If there are no special requirements, it is recommended to enter 64000 to make room for subsequent dex modification.</string>
+    <string name="dex_redivide_average">Redivide evenly</string>
+    <string name="dex_redivide_average_opt">Number of Dex</string>
+    <string name="dex_redivide_average_msg">Note: Assign the code to each dex as evenly as possible. If the number of dex is too small and the number of codes is too large, processing may fail. In this case, increase the number of dex.</string>
+
+    <string name="dex_error_too_many_methods">Cannot generate dex, the number of methods in a single dex exceeded 65536, please try to use the \"DEX Redivide\" function to process the apk file in advance.</string>
+    <string name="dex_error_too_many_methods_without_dex_redivide">Cannot generate dex, the number of methods in a single dex exceeded 65536.</string>
+
+    <string name="find_usages">Find usages</string>
+    <string name="save_file_first">Please save the file first</string>
+    <string name="do_not_save">Don\'t save</string>
+    <string name="save_all">Save all</string>
+    <string name="save_and_continue">Save and continue</string>
+    <string name="operation_need_save_all_code">You need to save all the codes before proceeding. Do you want to continue?</string>
+    <string name="close_unmodified">Close unmodified</string>
+    <string name="temporary_project">Temporary project</string>
+    <string name="compile_directly">Compile directly</string>
+    <string name="exit_directly">Exit directly</string>
+    <string name="already_in_this_class">You are already in this class</string>
+    <string name="already_in_this_file">You are already in this file</string>
+
+    <string name="previous_position">Previous position</string>
+    <string name="next_position">Next position</string>
+    <string name="search_results_exceeds_limit">The number of search results exceeds the limit, the search has been stopped</string>
+
+    <string name="arsc_editor_plus">Arsc Editor plus</string>
+    <string name="official_manual">Official manual</string>
+    <string name="recommended_tutorials">Recommended tutorials</string>
+    <string name="release_notes">Release notes</string>
+    <string name="buy">Buy</string>
+
+    <string name="where_to_search_overriding_methods">Do you want to search for the usage of the overriding methods?</string>
+    <string name="find_overriding_methods">Find overriding methods</string>
+
+    <string name="menu_replace_line">Replace line</string>
+    <string name="menu_cut_line">Cut line</string>
+
+    <string name="dex_version">Dex version</string>
+    <string name="dex_version_for_dex_editor">If you want to be compatible with the Dex editor, please select the dex 035 version.</string>
+    <string name="dex_version_keep_the_same">Keep the same</string>
+
+    <string name="compilation_options">Compilation options</string>
+    <string name="compilation_options_remove_source">Remove debug info <b>.source</b></string>
+    <string name="compilation_options_remove_line">Remove debug info <b>.line</b></string>
+    <string name="compilation_options_remove_param">Remove debug info <b>.param</b></string>
+    <string name="compilation_options_remove_prologue">Remove debug info <b>.prologue</b></string>
+    <string name="compilation_options_remove_local">Remove debug info <b>.xxx local</b></string>
+    <string name="compilation_options_remove_all">Remove all debug info</string>
+
+    <string name="enable_arsc_editor_plus">Enable</string>
+    <string name="menu_sign">Sign file</string>
+    <string name="menu_extract_to">Extract to…</string>
+    <string name="compilation_failed">Compilation failed</string>
+    <string name="arsc_plus_replace_count">Total replaced %1$d times in %2$d file(s).</string>
+    <string name="remove_files_query">Do you want to delete the selected %d file(s)?</string>
+    <string name="arsc_plus_copy_id_not_find">Cannot find the id corresponding to %s</string>
+    <string name="stick_on_top">Top</string>
+    <string name="remove_from_top">Unstuck</string>
+
+    <string name="signature_info_menu">View signature information</string>
+    <string name="signature_info">Signature information</string>
+    <string name="signature_file_name">File</string>
+    <string name="signature_scheme">Scheme</string>
+    <string name="signature_status">Status</string>
+    <string name="signature_owner">Owner</string>
+    <string name="signature_format">Format</string>
+    <string name="signature_add_colon">Add colon</string>
+    <string name="signature_upper_case">Upper case</string>
+    <string name="signature_view_original">View data</string>
+    <string name="signature_info_get_fail">Failed to obtain signature data</string>
+    <string name="signature_algorithm">Algorithm</string>
+    <string name="signature_created_time">Created</string>
+    <string name="signature_expired_time">Expired</string>
+    <string name="signature_verify_success">Verified successfully</string>
+    <string name="signature_verify_fail">Verified failed</string>
+    <string name="signature_verify_fail_different1">Different V1 and V2 signatures</string>
+    <string name="signature_verify_fail_different2">Different V1 and V3 signatures</string>
+    <string name="signature_verify_fail_different3">Different V2 and V3 signatures</string>
+    <string name="signature_verify_fail_v1">Verified failed by v1</string>
+    <string name="signature_verify_fail_v2">Verified failed by v2</string>
+    <string name="signature_verify_fail_v3">Verified failed by v3</string>
+    <string name="signature_verify_fail_lack_v2">Missing V2 scheme signature</string>
+    <string name="signature_verify_fail_lack_v3">Missing V3 scheme signature</string>
+    <string name="compare">Compare</string>
+
+    <string name="signature_verify_not_signed">Not signed</string>
+    <string name="property_signature">Signature</string>
+
+    <string name="apk_installation_low_version">Unable to downgrade the installation. Do you want to uninstall the installed high version application first? (You can turn off APK installation verification in preferences)</string>
+    <string name="install_directly">Install directly</string>
+
+    <string name="menu_generate_dictionary">Generate dictionary</string>
+    <string name="menu_generate_dictionary_toast">Please select two language packs for dictionary generation</string>
+    <string name="menu_generate_dictionary_error1">At least two language packs are required in the arsc file</string>
+    <string name="menu_generate_dictionary_error2">No matching items were found between the two language packs</string>
+
+    <string name="ignore_register_count">Ignore register count</string>
+
+    <string name="apk_installation_verifying">Verifying installation package…</string>
+
+    <string name="test_translator">Test translator</string>
+    <string name="test_content">Content</string>
+    <string name="translation_result">Result</string>
+    <string name="translate">Translate</string>
+    <string name="translating">Translating…</string>
+
+    <string name="search_in_current_path">Search in the current path</string>
+    <string name="search_in_selected_directory">Search in selected directories</string>
+    <string name="menu_instruction_completion">Instruction completion</string>
+    <string name="sort">Sort</string>
+
+    <string name="log_injection">Log Injection</string>
+    <string name="log_injection_summary">This function can automatically insert a log-printing instruction to the code where meets the conditions. When the APP runs to the inserted position, the context information will be output to the specified file. This function can be used for string decryption, key printing, etc.</string>
+    <string name="injection_scheme_name">Scheme name</string>
+    <string name="injection_scheme">Scheme</string>
+    <string name="injection_scheme_invalid">Invalid scheme content</string>
+    <string name="injection_package">Classes to be injected</string>
+    <string name="injection_package_help1">Inject into the specified classes\nEnter the \"full class name\", such as: bin.mt.plus.Main</string>
+    <string name="injection_package_help2">Inject into the specified packages (excluding sub-packages)\nEnter \"package-name.*\", such as: bin.mt.plus.*, then bin.mt.plus.Main will be injected, but bin.mt.plus.a.Main will not be injected.</string>
+    <string name="injection_package_help3">Inject into the specified packages (including sub-packages)\nEnter \"package-name.**\", such as: bin.mt.plus.**, then bin.mt.plus.Main will be injected, and bin.mt.plus.a.Main will also be injected.</string>
+    <string name="injection_package_help4">Exclude the specified packages or classes\nJust add ! In front of the expression, such as: !bin.mt.plus.*, !bin.mt.plus.Main</string>
+    <string name="injection_package_hint">One rule per line, leave it blank if injected into all classes</string>
+    <string name="injection_options">Options</string>
+    <string name="injection_option1">Rewrite source file and line number</string>
+    <string name="injection_option2">Custom log output format</string>
+    <string name="injection_option3">Custom log file path</string>
+    <string name="injection_format_time">Invoke time</string>
+    <string name="injection_format_time2">Launch time</string>
+    <string name="injection_format_class">Class name</string>
+    <string name="injection_format_method">Method name</string>
+    <string name="injection_format_location">Location information</string>
+    <string name="injection_format_result">Content to be printed</string>
+    <string name="injection_format_package">Package name</string>
+    <string name="injection_format_sdcard">External storage path</string>
+    <string name="injection_log_path_summary">If the custom log file path has no write permission, the file will be saved to /data/data/[PACKAGE]/logs/[TIME].log</string>
+    <string name="scheme_manager">Scheme manager</string>
+    <string name="scheme_print_strings">Print strings</string>
+    <string name="scheme_injection_options">Injection options</string>
+    <string name="scheme_injection_position">Injection position</string>
+    <string name="scheme_injection_position_1">After the invoke instruction</string>
+    <string name="scheme_injection_position_2">Before the invoke instruction</string>
+    <string name="scheme_matching_options">Matching options</string>
+    <string name="scheme_matching_options_match_invoke_vi">Match invoke-virtual/interface</string>
+    <string name="scheme_matching_options_match_invoke_d">Match invoke-static</string>
+    <string name="scheme_matching_options_match_invoke_s">Match invoke-direct</string>
+    <string name="scheme_perform_action">Perform action</string>
+    <string name="scheme_perform_action_1">Print method return value</string>
+    <string name="scheme_perform_action_2">Print method parameters</string>
+    <string name="print_parameter1">Print the 1st parameter</string>
+    <string name="print_parameter2">Print the 2nd parameter</string>
+    <string name="print_parameter3">Print the 3rd parameter</string>
+    <string name="print_parameter4">Print the 4th parameter</string>
+    <string name="print_parameter5">Print the 5th parameter</string>
+    <string name="print_parameter6">Print the 6th parameter</string>
+    <string name="method_matching_options">Method matching options</string>
+    <string name="method_matching_options_show">Method matching options &gt;&gt;</string>
+    <string name="method_matching_options_type">Defining class</string>
+    <string name="method_matching_options_type_hint">Such as: Ljava/lang/Object;</string>
+    <string name="method_matching_options_name">Method name</string>
+    <string name="method_matching_options_parameters">Parameter types</string>
+    <string name="method_matching_options_parameters_hint">Such as: [BLjava/lang/String;</string>
+    <string name="method_matching_options_return_value">Return type</string>
+    <string name="method_matching_options_return_value_hint">Such as: I</string>
+    <string name="method_matching_options_match_any">Match any value</string>
+    <string name="scheme_matching_options_error1">Can not all \"match any value\"</string>
+    <string name="scheme_matching_options_error2">Please enter content or select \"match any value\"</string>
+    <string name="scheme_matching_options_error3">Regular expression error</string>
+    <string name="scheme_matching_options_error4">Please select at least one instruction match</string>
+    <string name="scheme_matching_options_error5">Please configure the method matching options</string>
+    <string name="scheme_matching_options_error6">Please print at least one parameter</string>
+    <string name="parameter">Parameter</string>
+    <string name="export_to_clipboard">Export to clipboard</string>
+    <string name="import_from_clipboard">Import from clipboard</string>
+    <string name="import_success">Import successfully</string>
+    <string name="import_failed">Import Failed</string>
+
+    <string name="hide_language">Hide language</string>
+    <string name="do_you_want_translate_xxx">Do you want to translate: %s</string>
+
+    <string name="axml_batch_replace">Xml Batch Replace</string>
+    <string name="text_editor_translator_switch">Enable text translator</string>
+
+    <string name="adjust_height">Adjust height</string>
+    <string name="add_group">Add group</string>
+    <string name="group_name_exists">Group name exists</string>
+    <string name="move_to_the_left">Move to the left</string>
+    <string name="move_to_the_right">Move to the right</string>
+    <string name="delete_bookmarks_group_msg">Delete group \"%s\"?\nBookmarks in this group will be moved to the default group after being deleted</string>
+    <string name="copy_result">Copy the result</string>
+
+    <string name="bottom_toolbar_margin_bottom">Add bottom margin to bottom-toolbar</string>
+    <string name="bottom_toolbar_margin_bottom_summary">You can pull out the bookmarks by sliding up from the bottom-toolbar. If you often conflict with the full screen gestures when sliding up, you can increase the bottom margin appropriately.</string>
+    <string name="bottom_toolbar_margin_bottom_size">Bottom margin size of bottom-toolbar</string>
+    <string name="bottom_toolbar_margin_bottom_size_short">Margin size</string>
+    <string name="where_are_the_bookmarks">Where are the bookmarks</string>
+    <string name="where_are_the_bookmarks_msg1">Swipe up from the bottom toolbar to open bookmarks</string>
+    <string name="where_are_the_bookmarks_msg2">(If your system supports full-screen gestures and it is easy to accidentally touch the bottom gestures of the full-screen when sliding up, you can increase the bottom margin of the bottom toolbar in the MT settings)</string>
+    <string name="i_got_it">I got it</string>
+
+    <string name="android_data_grant_access_prompt">Starting from Android 11, third-party software cannot access the xxx directory due to system restrictions. You can try to authorize to allow MT to gain access to the directory. <b>Click [OK] to enter the authorization page, and click [USE THIS FOLDER] at the bottom to complete the authorization. </b>(If the authorization fails, it may be the reason that the system does not support it. You can also try to grant root permissions to MT to solve it.)</string>
+
+    <string name="copy_method_signature">Copy method signature</string>
+    <string name="copy_field_signature">Copy field signature</string>
+    <string name="batch_operations">Batch operations</string>
+    <string name="remove_bookmarks_query">Do you want to delete the selected %d bookmark(s)?</string>
+
+    <string name="show_bookmarks_in_sidebar">Show bookmarks in the sidebar</string>
+    <string name="show_bookmarks_in_sidebar_summary">Only show bookmarks in the default group, to view all bookmarks, swipe up from the bottom toolbar.</string>
+
+    <string name="replace_original">Replace the original</string>
+
+    <string name="view_flowchart">View flowchart</string>
+    <string name="method_code_is_empty">Method code is empty</string>
+    <string name="flowchart_too_complicated">The flow chart content is too complicated to display.</string>
+
+    <string name="none_classes_modified">None of the classes have been modified.</string>
+    <string name="all_unmodified_classes_been_selected">All unmodified classes have been selected.</string>
+
+    <string name="bookmarks_and_bottom_bar">Bookmarks &amp; bottom bar</string>
+
+    <string name="switch_theme_follow_system">Switch theme follow system</string>
+    <string name="switch_theme_follow_system_summary">Day and night mode switch follows the system\'s dark mode switch.</string>
+    <string name="switch_theme_manual_msg">You have turned on \"Switch theme follow system\". Do you want to turn it off and switch themes manually?</string>
+
+    <string name="custom_mt2_directory">Custom MT2 directory</string>
+    <string name="custom_mt2_directory_summary">After modifying the directory path, the files in the original folder will not be automatically transferred, and you need to move them manually.</string>
+
+    <string name="type_system_suggestion">System suggestion</string>
+    <string name="type_built_in">Built-in</string>
+    <string name="built_in_function_xml">Xml functions</string>
+    <string name="built_in_function_arsc">Arsc functions</string>
+    <string name="built_in_function_dex">Dex functions</string>
+    <string name="built_in_function_apk">Apk viewer</string>
+    <string name="built_in_function_apks">Apks functions</string>
+    <string name="built_in_function_cmp">Archive viewer</string>
+    <string name="built_in_function_jks">Signature Importer</string>
+    <string name="built_in_function_mtp">MT-Plugin viewer</string>
+    <string name="built_in_function_text">Text editor</string>
+    <string name="built_in_function_image">Image viewer</string>
+    <string name="built_in_function_audio">Music player</string>
+    <string name="built_in_function_script">Script executor</string>
+    <string name="built_in_function_font">Font viewer</string>
+    <string name="built_in_function_hex">Hex editor</string>
+
+    <string name="open_method_help">Long press the icon to set it as the default opening method of the file type, next time you can directly click the file to open it.</string>
+    <string name="open_method_set_as_default">Set as default opening method</string>
+    <string name="open_method_set_as_default_msg">Set successfully</string>
+    <string name="open_method_details">Application details</string>
+    <string name="open_method_manager_button_title">Manage</string>
+    <string name="open_method_manager_activity_title">Default opening method</string>
+
+    <string name="apk_installation_prevents_deletion">APK installation prevents deletion</string>
+    <string name="apk_installation_prevents_deletion_summary">Prevent the apk file from being deleted by the system after installation. It may cause the installer to be abnormal on a few systems, please turn off this function in this case.</string>
+
+    <string name="built_in_opening_method_sort">Sort built-in opening method</string>
+    <string name="delete_dex_files_after_merged">Delete original</string>
+
+    <string name="manage_sidebar_tools">Manage sidebar tools</string>
+    <string name="manage_sidebar_tools_summary">You can hide the tools you don’t need.</string>
+
+    <string name="common_sort_summary">Drag to sort after long press.</string>
+
+    <string name="menu_compare_apk">Compare apk</string>
+    <string name="menu_compare_zip">Compare zip</string>
+    <string name="compare_results_unchanged">Unchanged files:</string>
+    <string name="compare_results_modified">Modified files:</string>
+    <string name="compare_results_added">Added files:</string>
+    <string name="compare_results_removed">Removed files:</string>
+    <string name="compare_results_moved">Moved files:</string>
+
+    <string name="request_all_file_access">For better file operation performance, please manually grant MT the \"All files access\" permission, click OK to enter the setting interface, select \"MT Manager\" and open the authorization.</string>
+
+    <string name="svg2xml">Svg2Xml</string>
+    <string name="built_in_function_svg">Svg functions</string>
+    <string name="view_image">View image</string>
+
+    <string name="code_highlight_limit">Syntax highlight length limit</string>
+    <string name="code_highlight_limit_summary">The syntax highlight function will be automatically turned off when the text exceeds the specified length. (can save running memory)</string>
+
+    <string name="menu_reformat_code">Reformat code</string>
+    <string name="menu_shrink_code">Shrink code</string>
+
+    <string name="menu_empty_line">Empty line</string>
+
+    <string name="file_picker_save">@string/menu_save</string>
+
+    <string name="file_picker_file_name">Filename</string>
+    <string name="file_picker_file_name_exists">The file already exists, do you want to replace it?</string>
+    <string name="file_picker_select_this_folder">Select current directory</string>
+    <string name="file_picker_new_folder">New folder</string>
+    <string name="file_picker_cover_file">The file \"%s\" already exists. Do you want to overwrite it?</string>
+
+    <string name="cloud_backup_not_data">You have not made any backups.</string>
+    <string name="menu_select_from_start">From the start</string>
+    <string name="menu_select_to_end">To the end</string>
+    <string name="v1_sign_failed_bad_file">There is an error in the file in the compressed package and V1 signature cannot be performed. You can solve it by the following two methods:\n1. In the signature setting, select the signature scheme \"V2 (Android 7.0+)\". (recommended)\n2. Manually delete Compress the files in the package \"%s\" and then sign.</string>
+
+    <string name="diff_view_mode">View mode</string>
+    <string name="diff_view_mode_auto">Auto switch</string>
+    <string name="diff_view_mode_side_by_side">Side-by-side</string>
+    <string name="diff_view_mode_unified">Unified</string>
+
+    <string name="menu_save_as">Save as</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_import">Import</string>
+
+    <string name="file_error_with_msg">An error occurred with the file \"%1$s\":\n%2$s</string>
+    <string name="smali_format_error">Smali file format error!</string>
+
+    <string name="menu_compare_arsc">Compare arsc</string>
+    <string name="arsc_comparator">Arsc Comparator</string>
+    <string name="arsc_comparator_hide_added">Hide added items</string>
+    <string name="arsc_comparator_hide_removed">Hide removed items</string>
+    <string name="arsc_comparator_hide_changed">Hide changed items</string>
+
+    <string name="compress_title">Create archive</string>
+    <string name="compress_format">Format</string>
+    <string name="compress_password">Password (no encryption if empty)</string>
+    <string name="compress_encrypt_file_name">Also encrypt file name</string>
+    <string name="compress_doing">Compressing…</string>
+
+    <string name="update_file_now">Update now</string>
+    <string name="update_file_remind_later">Remind me later</string>
+    <string name="update_file_ignore_modification">Ignore this modification</string>
+
+    <string name="new_file">New file</string>
+    <string name="file_removed_keep_query">The file %s has been deleted. Do you need to keep it in the editor?</string>
+    <string name="keep_in_editor">Keep</string>
+    <string name="remove_from_editor">Remove</string>
+    <string name="file_changed_reload_query">The file %s has been modified. Do you want to reload it?</string>
+    <string name="content_changed_missing_warn">This operation will lose your current modification content. Do you want to continue?</string>
+    <string name="keep_in_editor_query">Do you want to keep the file in the editor?</string>
+    <string name="keep_in_editor_check_box">Keep the file in the editor</string>
+    <string name="save_and_close">Save and close</string>
+    <string name="file_already_in_editor">The file "%s" is already in the editor</string>
+    <string name="arsc_file_is_missing">The file %s is missing, which may cause compilation failure!</string>
+
+    <string name="match_whole_word">Whole word</string>
+
+    <string name="quick_close">Quick close</string>
+    <string name="quick_close_others">Close others</string>
+    <string name="quick_close_others_query">Do you want to close other files except "%s"?</string>
+    <string name="quick_close_all">Close all</string>
+    <string name="quick_close_all_query">Do you want to close all files?</string>
+    <string name="quick_close_unmodified">Close unmodified</string>
+    <string name="quick_close_unmodified_query">Do you want to close all unmodified files?</string>
+    <string name="quick_close_above">Close above</string>
+    <string name="quick_close_above_query">Do you want to close all files above "%s"?</string>
+    <string name="quick_close_below">Close below</string>
+    <string name="quick_close_below_query">Do you want to close all files below "%s"?</string>
+    <string name="quick_close_option_modified_directly">Close the modified file directly without saving the content</string>
+
+    <string name="keep_in_editor_options1">Always keep</string>
+    <string name="keep_in_editor_options2">Always remove</string>
+    <string name="keep_in_editor_options3">Ask me (prefer keep)</string>
+    <string name="keep_in_editor_options4">Ask me (prefer remove)</string>
+    <string name="keep_in_editor_options_title">Preference for keeping files</string>
+    <string name="keep_in_editor_options_summary">For newly opened files, whether to keep them in the text editor on exit for next editing.</string>
+    <string name="menu_keep_in_editor">Keep in editor</string>
+    <string name="menu_keep_in_editor_message">The file has been kept in the text editor and you can find it in the sidebar the next time you open the text editor.</string>
+    <string name="enable_check_file_time">Check if file has been modified</string>
+    <string name="enable_check_file_time_summary">After detecting that the file has been modified, you will be prompted whether to reload the file.</string>
+    <string name="enable_check_file_exists">Check if file has been deleted</string>
+    <string name="enable_check_file_exists_summary">After detecting that the file is deleted, you will be prompted whether to remove the file from the editor.</string>
+    <string name="enable_double_confirm_before_exit">Double confirm before exit</string>
+    <string name="enable_double_confirm_before_exit_summary">If enabled, you need to click the back button twice to exit</string>
+    <string name="show_indent_guides">Show indent guides</string>
+    <string name="show_ascii_control_characters">Show ASCII control characters</string>
+
+    <string name="text_editor_function_bar">Function bar</string>
+    <string name="text_editor_function_bar_rows">Function bar rows</string>
+    <string name="text_editor_function_bar_edit">Edit function bar</string>
+    <string name="title">Title</string>
+    <string name="insert_text">Insert text</string>
+    <string name="insert_text_content">Content</string>
+    <string name="insert_text_help">$$  Represents a $\n$S  Indicates where to start the selection\n$E  Indicates where to end the selection\n$T  Represents the currently selected text</string>
+    <string name="to_start_of_line">To start of line</string>
+    <string name="to_end_of_line">To end of line</string>
+    <string name="to_start_of_file">To start of file</string>
+    <string name="to_end_of_file">To end of file</string>
+    <string name="move_cursor_left">Move cursor left</string>
+    <string name="move_cursor_right">Move cursor right</string>
+    <string name="move_cursor_up">Move cursor up</string>
+    <string name="move_cursor_down">Move cursor down</string>
+    
+    <string name="custom_decryption_methods">Custom decryption methods</string>
+    <string name="custom_decryption_methods_hint">Use Smali syntax, one method per line, such as:\nLxxx/StringFog;->decrypt([B[B)Ljava/lang/String;</string>
+    <string name="custom_decryption_methods_required">Please enter a custom decryption method!</string>
+    <string name="custom_decryption_methods_parse_fail">Parsing failed: %s</string>
+    <string name="custom_decryption_methods_unsupported">This decryption method is not supported：%s</string>
+    <string name="editview_need_word_wrap_to_display">Word wrap needs to be turned on to display the rest of this line!!!</string>
+
+    <string name="axml_search_replace_code_need_vip">The search type "Xml" is only available to VIP, please choose another option!</string>
+    <string name="axml_replace_guide">Function entry: APK Information > Function > Xml Batch Replace</string>
+    <string name="axml_replace_compile_failed">File contents cannot be compiled after replacement: %s</string>
+    
+    <string name="import_signature_long">Import signature (.jks/.keystore)</string>
+    <string name="customize_v1_signature_filename">Customize V1 signature data filename</string>
+    <string name="customize_v1_signature_filename_summary">Customize the RSA/SF filename generated by V1 signature, leave blank to get information from signature key.</string>
+
+    <string name="toggle_comment_unsupported">The current grammar rules do not support the toggle comment operation.</string>
+    <string name="install_success">Successful installation</string>
+    <string name="mt_syntax_file">MT-Syntax file</string>
+    <string name="syntax_files_manager">Syntax files manager</string>
+    <string name="syntax_files_manager_short">Manage</string>
+    <string name="syntax_files_installed">Installed</string>
+    <string name="syntax_files_builtin">Built-in</string>
+    <string name="highlight">Highlight</string>
+    <string name="brackets_jump">Brackets jump</string>
+<string name="brackets_jump">Jump to another bracket</string>
+<string name="brackets_select">Select between brackets</string>
+
+    <string name="use_builtin_apk_installer">Use built-in APK installer</string>
+    <string name="use_builtin_apk_installer_summary">Only takes effect with root privileges.</string>
+    <string name="use_builtin_apk_installer_fail">APK installation failed, call the system installer to install.</string>
+    <string name="copying_file">Copying file…</string>
+    <string name="apk_install_fail_version_downgrade">Installation failed, cannot downgrade installation!</string>
+    <string name="apk_install_fail_update_incompatible">Installation failed, inconsistent with installed APK signature!</string>
+    <string name="apk_install_fail_older_sdk">Installation failed, the target SDK version of this APK is not compatible with your device!</string>
+    <string name="apk_install_fail_generic">Installation failed</string>
+    <string name="feature_need_root">This feature is only available with root privileges.</string>
+    <string name="apks_install_timeout">Installation timed out, no system response.</string>
+    <string name="apks_install_timeout_miui">Installation timed out, please try to turn off "MIUI optimization" in developer options.</string>
+    <string name="apks_install_fail_miui">Installation failed, please try to turn off "MIUI optimization" in developer options.</string>
+    <string name="apks_install_canceled">Installation was canceled</string>
+    <string name="apks_install_miui_warning">You are about to install apks/xapk files in rootless mode. Due to MIUI\'s changes to Android API, there may be unpredictable situations that may cause the installation to fail.\n\nIf you encounter this problem, you can probably fix it by <b>turning off MIUI optimization in the developer options</b>.\n\nIf the problem still cannot be solved after trying, then you can only install in root mode by enabling root permissions.</string>
+    <string name="developer_options">Developer options</string>
+
+
+</resources>

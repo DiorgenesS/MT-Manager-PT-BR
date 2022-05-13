@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zip_level_array">
+        <item>Store</item>
+        <item>Fastest</item>
+        <item>Fast</item>
+        <item>Normal</item>
+        <item>Maximum</item>
+        <item>Ultra</item>
+        <item>APK mode</item>
+    </string-array>
+
+    <string-array name="update_method_array">
+        <item>Replace All</item>
+        <item>Update and replace</item>
+        <item>Skip All</item>
+    </string-array>
+
+    <string-array name="dex_search_declaration">
+        <item>Method Declaration</item>
+        <item>Field Declaration</item>
+    </string-array>
+
+    <string-array name="text_font">
+        <item>Normal</item>
+        <item>Monospace</item>
+    </string-array>
+
+    <string-array name="load_paths">
+        <item>Home</item>
+        <item>Last path</item>
+    </string-array>
+
+    <string-array name="file_list_sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+
+    <string-array name="zip_back_operations">
+        <item>Hide to the background</item>
+        <item>Close the file</item>
+    </string-array>
+
+    <string-array name="word_wrap">
+        <item>Disable</item>
+        <item>Prevent hyphenation</item>
+        <item>Completely filled</item>
+    </string-array>
+
+    <string-array name="dex_search">
+        <item>Smali</item>
+        <item>Class name</item>
+        <item>Field name</item>
+        <item>Method name</item>
+        <item>String</item>
+        <item>Integer</item>
+    </string-array>
+
+    <string-array name="dex_replace">
+        <item>Smali</item>
+        <item>String</item>
+    </string-array>
+
+    <string-array name="arsc_value_type">
+        <item>String</item>
+        <item>Reference</item>
+        <item>Attribute</item>
+        <item>Color</item>
+        <item>Int-dec</item>
+        <item>Int-hex</item>
+        <item>Boolean</item>
+        <item>Float</item>
+        <item>Dimension</item>
+        <item>Fraction</item>
+        <item>DynamicReference</item>
+    </string-array>
+
+    <string-array name="copy_as">
+        <item>Copy as Hex Text</item>
+        <item>Copy as Decimal Text</item>
+        <item>Copy as Binary Text</item>
+        <item>Copy as Ascii</item>
+        <item>Copy as Base64</item>
+        <item>Copy as SHA1</item>
+        <item>Copy as MD5</item>
+        <item>Copy as CRC32</item>
+    </string-array>
+
+    <string-array name="paste_from">
+        <item>Paste from Hex Text</item>
+        <item>Paste from Decimal Text</item>
+        <item>Paste from Binary Text</item>
+        <item>Paste from Ascii</item>
+        <item>Paste from Base64</item>
+    </string-array>
+
+    <string-array name="extract_apk_sort">
+        <item>Application name</item>
+        <item>Package name</item>
+        <item>Apk file size</item>
+        <item>Install time</item>
+    </string-array>
+
+    <string-array name="arsc_search">
+        <item>Xml</item>
+        <item>Resource Id</item>
+        <item>String</item>
+        <item>Integer</item>
+        <item>Color</item>
+    </string-array>
+
+    <string-array name="arsc_replace">
+        <item>Xml</item>
+        <item>String</item>
+    </string-array>
+
+    <string-array name="axml_search">
+        <item>String</item>
+        <item>Resource Id</item>
+        <item>Color</item>
+        <item>Integer</item>
+    </string-array>
+
+    <string-array name="bottom_toolbar_padding_type">
+        <item>Auto</item>
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+
+    <string-array name="find_field_usages_type">
+        <item>Find all usages</item>
+        <item>Find the usages of put</item>
+        <item>Find the usages of get</item>
+    </string-array>
+
+</resources>
