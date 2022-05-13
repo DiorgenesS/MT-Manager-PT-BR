@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="vip_remaining_time">
-        <item quantity="one">VIP expires in %d day</item>
-        <item quantity="other">VIP expires in %d days</item>
+        <item quantity="one">O Conta VIP expira em %d dia</item>
+        <item quantity="other">O Conta VIP expira em %d dias</item>
     </plurals>
 
-    <string name="see_details">See details</string>
-    <string name="not_opened_vip">Not VIP</string>
+    <string name="see_details">Veja detalhes</string>
+    <string name="not_opened_vip">Sem Conta VIP</string>
 
-    <string name="purchase_vip_now">Purchase VIP</string>
-    <string name="renew_vip_now">Purchase VIP</string>
+    <string name="purchase_vip_now">Compra Conta VIP</string>
+    <string name="renew_vip_now">Renovar Conta VIP</string>
 
-    <string name="purchasing_vip">Purchasing VIP…</string>
-    <string name="purchase_vip_success">Purchase VIP success</string>
-    <string name="opened_lifetime_vip">You are already a lifetime VIP</string>
+    <string name="purchasing_vip">Comprando Conta VIP…</string>
+    <string name="purchase_vip_success">Conta VIP comprada com sucesso</string>
+    <string name="opened_lifetime_vip">Você já tem uma Conta VIP vitalícia</string>
 
-    <string name="vip_privilege">Privilege</string>
+    <string name="vip_privilege">Privilégio</string>
 
-    <string name="understood_and_agreed_vip_notice"><u>VIP Notices</u></string>
-    <string name="vip_notice">VIP notices</string>
-    <string name="vip_notice_content">* You can use all the VIP functions of the MT Manager after you activate the VIP. The account is not tied to the mobile phone. You can log in to use on any mobile phone, but it does not support logging in to the same account at the same time.\n* In order for the MT manager to operate well for a long time, the VIP account is limited to the purchaser himself, and it is not allowed to be shared, rented or sold publicly, otherwise the account may be permanently frozen.\n* VIP content belongs to virtual goods, once purchase does not support refund operation.\n* If you encounter problems during the payment process, you can write to 921558445@qq.com</string>
+    <string name="understood_and_agreed_vip_notice"><u>Avisos VIP</u></string>
+    <string name="vip_notice">Avisos VIP</string>
+    <string name="vip_notice_content">* Você pode usar todas as funções da Conta VIP do Gerenciador MT após ativa-lá. A conta não está vinculada ao dispositivo. Você pode fazer login para usar em qualquer dispositivo, mas não há suporte para login na mesma conta ao mesmo tempo.\n* Para que o Gerenciador MT funcione corretamente, a conta VIP é limitada ao próprio comprador, e não é permitido compartilhar, alugar ou vender publicamente, caso contrário a conta pode ser bloqueada permanentemente.\n* O conteúdo VIP pertence a bens virtuais, uma vez que a compra não suporta a operação de reembolso.\n* Se você encontrar problemas durante o processo de pagamento, pode escrever para 921558445@qq.com</string>
 
-    <string name="vip_function1">Custom signature key</string>
-    <string name="vip_function2">Cloud backup user data</string>
-    <string name="vip_function3">Full hex editor</string>
-    <string name="vip_function4">AXml editing function</string>
-    <string name="vip_function5">Smali to Java</string>
-    <string name="vip_function6">Arsc resource querier</string>
-    <string name="vip_function7">Repair dex file</string>
-    <string name="vip_function8">Dex anti-confuse</string>
-    <string name="vip_function9">Decrypt dex strings</string>
-    <string name="vip_function10">Text comparator</string>
-    <string name="vip_function11">Plugin extension</string>
-    <string name="vip_function12">More than that >></string>
+    <string name="vip_function1">Chave de assinatura personalizada</string>
+    <string name="vip_function2">Backup dos dados do usuário na nuvem</string>
+    <string name="vip_function3">Editor hexadecimal completo</string>
+    <string name="vip_function4">Função de edição AXml</string>
+    <string name="vip_function5">Smali para Java</string>
+    <string name="vip_function6">Pesquisador de recursos Arsc</string>
+    <string name="vip_function7">Reparar arquivo dex</string>
+    <string name="vip_function8">Dex anti-confusão</string>
+    <string name="vip_function9">Descriptografar strings dex</string>
+    <string name="vip_function10">Comparador de texto</string>
+    <string name="vip_function11">Extensão do plug-in</string>
+    <string name="vip_function12">Mais do que isso >></string>
 
 </resources>
