@@ -2,10 +2,10 @@
 <resources>
     <string-array name="zip_level_array">
         <item>Loja</item>
-        <item>O mais rápido</item>
-        <item>Rápido</item>
+        <item>A mais rápida</item>
+        <item>Rápida</item>
         <item>"Normal"</item>
-        <item>Máximo</item>
+        <item>Máxima</item>
         <item>"Ultra"</item>
         <item>Modo APK</item>
     </string-array>
