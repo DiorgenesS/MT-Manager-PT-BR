@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="zip_level_array">
-        <item>Store</item>
-        <item>Fastest</item>
-        <item>Fast</item>
-        <item>Normal</item>
-        <item>Maximum</item>
-        <item>Ultra</item>
-        <item>APK mode</item>
+        <item>Loja</item>
+        <item>O mais rápido</item>
+        <item>Rápido</item>
+        <item>"Normal"</item>
+        <item>Máximo</item>
+        <item>"Ultra"</item>
+        <item>Modo APK</item>
     </string-array>
 
     <string-array name="update_method_array">
-        <item>Replace All</item>
-        <item>Update and replace</item>
-        <item>Skip All</item>
+        <item>Substitua tudo</item>
+        <item>Atualizar e substituir</item>
+        <item>Ignorar tudo</item>
     </string-array>
 
     <string-array name="dex_search_declaration">
-        <item>Method Declaration</item>
-        <item>Field Declaration</item>
+        <item>Método de declaração</item>
+        <item>Campo de declaração</item>
     </string-array>
 
     <string-array name="text_font">
-        <item>Normal</item>
-        <item>Monospace</item>
+        <item>"Normal"</item>
+        <item>"Monospace"</item>
     </string-array>
 
     <string-array name="load_paths">
-        <item>Home</item>
-        <item>Last path</item>
+        <item>Início</item>
+        <item>Último caminho</item>
     </string-array>
 
     <string-array name="file_list_sizes">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Big</item>
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
     </string-array>
 
     <string-array name="zip_back_operations">
-        <item>Hide to the background</item>
-        <item>Close the file</item>
+        <item>Ocultar em segundo plano</item>
+        <item>Feche o arquivo</item>
     </string-array>
 
     <string-array name="word_wrap">
-        <item>Disable</item>
-        <item>Prevent hyphenation</item>
-        <item>Completely filled</item>
+        <item>Desativar</item>
+        <item>Impedir a hifenização</item>
+        <item>Completamente preenchido</item>
     </string-array>
 
     <string-array name="dex_search">
-        <item>Smali</item>
-        <item>Class name</item>
-        <item>Field name</item>
-        <item>Method name</item>
-        <item>String</item>
-        <item>Integer</item>
+        <item>"Smali"</item>
+        <item>Nome da Class</item>
+        <item>Nome do Field</item>
+        <item>Nome do Method</item>
+        <item>"String"</item>
+        <item>"Integer"</item>
     </string-array>
 
     <string-array name="dex_replace">
-        <item>Smali</item>
-        <item>String</item>
+        <item>"Smali"</item>
+        <item>"String"</item>
     </string-array>
 
     <string-array name="arsc_value_type">
@@ -77,29 +77,29 @@
     </string-array>
 
     <string-array name="copy_as">
-        <item>Copy as Hex Text</item>
-        <item>Copy as Decimal Text</item>
-        <item>Copy as Binary Text</item>
-        <item>Copy as Ascii</item>
-        <item>Copy as Base64</item>
-        <item>Copy as SHA1</item>
-        <item>Copy as MD5</item>
-        <item>Copy as CRC32</item>
+        <item>Copiar como texto hexadecimal</item>
+        <item>Copiar como texto decimal</item>
+        <item>Copiar como texto Binário</item>
+        <item>Copiar como ASCII</item>
+        <item>Copiar como Base64</item>
+        <item>Copiar como SHA1</item>
+        <item>Copiar como MD5</item>
+        <item>Copiar como CRC32</item>
     </string-array>
 
     <string-array name="paste_from">
-        <item>Paste from Hex Text</item>
-        <item>Paste from Decimal Text</item>
-        <item>Paste from Binary Text</item>
-        <item>Paste from Ascii</item>
-        <item>Paste from Base64</item>
+        <item>Colar do texto hexadecimal</item>
+        <item>Colar do texto decimal</item>
+        <item>Colar do texto Binário</item>
+        <item>Colar de Ascii</item>
+        <item>Colar de Base64</item>
     </string-array>
 
     <string-array name="extract_apk_sort">
-        <item>Application name</item>
-        <item>Package name</item>
-        <item>Apk file size</item>
-        <item>Install time</item>
+        <item>Nome do app</item>
+        <item>Nome do pacote</item>
+        <item>Tamanho do arquivo APK</item>
+        <item>Data de instalação</item>
     </string-array>
 
     <string-array name="arsc_search">
@@ -123,9 +123,9 @@
     </string-array>
 
     <string-array name="bottom_toolbar_padding_type">
-        <item>Auto</item>
-        <item>Enable</item>
-        <item>Disable</item>
+        <item>"Auto"</item>
+        <item>Ativar</item>
+        <item>Desativar</item>
     </string-array>
 
     <string-array name="find_field_usages_type">
