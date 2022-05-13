@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="vip_remaining_time">
-        <item quantity="one">O Conta VIP expira em %d dia</item>
-        <item quantity="other">O Conta VIP expira em %d dias</item>
+        <item quantity="one">A Conta VIP expira em %d dia</item>
+        <item quantity="other">A Conta VIP expira em %d dias</item>
     </plurals>
 
     <string name="see_details">Veja detalhes</string>
