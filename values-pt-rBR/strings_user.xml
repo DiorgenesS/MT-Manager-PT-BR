@@ -8,7 +8,7 @@
     <string name="see_details">Veja detalhes</string>
     <string name="not_opened_vip">Sem Conta VIP</string>
 
-    <string name="purchase_vip_now">Compra Conta VIP</string>
+    <string name="purchase_vip_now">Comprar Conta VIP</string>
     <string name="renew_vip_now">Renovar Conta VIP</string>
 
     <string name="purchasing_vip">Comprando Conta VIP…</string>
@@ -26,12 +26,12 @@
     <string name="vip_function3">Editor hexadecimal completo</string>
     <string name="vip_function4">Função de edição AXml</string>
     <string name="vip_function5">Smali para Java</string>
-    <string name="vip_function6">Pesquisador de recursos Arsc</string>
+    <string name="vip_function6">Busca de recursos Arsc</string>
     <string name="vip_function7">Reparar arquivo dex</string>
     <string name="vip_function8">Dex anti-confusão</string>
     <string name="vip_function9">Descriptografar strings dex</string>
-    <string name="vip_function10">Comparador de texto</string>
+    <string name="vip_function10">Comparação de texto</string>
     <string name="vip_function11">Extensão do plug-in</string>
-    <string name="vip_function12">Mais do que isso >></string>
+    <string name="vip_function12">E muito mais >></string>
 
 </resources>
