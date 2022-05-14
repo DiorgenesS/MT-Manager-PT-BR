@@ -31,8 +31,8 @@
     <string name="about">Sobre</string>
     <string name="access_flag_error">Access flag error</string>
     <string name="access_flags">Access flags</string>
-    <string name="activity_record">Activity Record</string>
-    <string name="activity_record_beta">Activity Record (Beta)</string>
+    <string name="activity_record">Registro de atividades</string>
+    <string name="activity_record_beta">Registro de atividades (Beta)</string>
     <string name="adding">Adding…</string>
     <string name="advanced_search">Advanced search</string>
     <string name="already_cancel">Action canceled</string>
@@ -86,7 +86,7 @@
     <string name="descriptor">Descriptor</string>
     <string name="dex_editor">Dex Editor</string>
     <string name="disk_msg">Disk: %1$s/%2$s</string>
-    <string name="disk_msg2">%1$s used, %2$s available</string>
+    <string name="disk_msg2">Em uso: %1$s | Disponível: %2$s</string>
     <string name="disk_ro">RO</string>
     <string name="disk_rw">RW</string>
     <string name="edit">Editar</string>
@@ -247,7 +247,7 @@
     <string name="remote_instruction">Put it into your Computer Explorer\'s address bar:</string>
     <string name="remote_instruction_pre1">Remotely manage your phone files on computer</string>
     <string name="remote_instruction_pre2">This feature requires your phone and your computer in the same LAN</string>
-    <string name="remote_manager">Remote Management</string>
+    <string name="remote_manager">Gerenciamento remoto</string>
     <string name="remove_class">Excluir class</string>
     <string name="remove_field">Excluir field</string>
     <string name="remove_method">Excluir method</string>
@@ -263,9 +263,9 @@
     <string name="replace_count">Total replaced %d times</string>
     <string name="res_confuse">Resources Confuse</string>
     <string name="right_window">Right Window</string>
-    <string name="root_directory">Root Directory</string>
-    <string name="save_and_exit">Save and Exit</string>
-    <string name="saving">Saving…</string>
+    <string name="root_directory">Diretório raiz</string>
+    <string name="save_and_exit">Salvar e sair</string>
+    <string name="saving">Salvando…</string>
     <string name="search_class_name">Class name</string>
     <string name="search_content">Text to find</string>
     <string name="search_name">File name to find (support * and ?)</string>
@@ -275,7 +275,7 @@
     <string name="search_type">Search type</string>
     <string name="searching">Searching…</string>
     <string name="secondary_search">Secondary search</string>
-    <string name="secondary_storage_directory">External storage</string>
+    <string name="secondary_storage_directory">Armazenamento externo</string>
     <string name="sel_all">Select all</string>
     <string name="sel_continuously">Select continuously</string>
     <string name="sel_continuously_help_file">Swipe to select two files in the list than it will automatically select all files between the two files.</string>
@@ -301,8 +301,8 @@
     <string name="start_server">Start service</string>
     <string name="stop_search">Stop search</string>
     <string name="stop_server">Stop service</string>
-    <string name="storage">Storage</string>
-    <string name="storage_directory">Storage Directory</string>
+    <string name="storage">Armazenamento</string>
+    <string name="storage_directory">Armazenamento interno</string>
     <string name="string">String</string>
     <string name="string_pool">String pool</string>
     <string name="summary_show_hidden_file_off">Hide files whose names start with .</string>
@@ -314,16 +314,16 @@
     <string name="prompt_never">Never show</string>
 
     <string name="prompt_sel_all">Swipe files can be selected directly</string>
-    <string name="tools">Tools</string>
-    <string name="total_progress">Total</string>
-    <string name="translation_mode">Translation mode</string>
-    <string name="type_all">All</string>
-    <string name="type_audio">Audio</string>
-    <string name="type_default">Default</string>
-    <string name="type_image">Image</string>
-    <string name="type_text">Text</string>
-    <string name="type_video">Video</string>
-    <string name="unlimited">Unlimited</string>
+    <string name="tools">Ferramentas</string>
+    <string name="total_progress">"Total"</string>
+    <string name="translation_mode">Modo tradução</string>
+    <string name="type_all">Todos</string>
+    <string name="type_audio">Áudio</string>
+    <string name="type_default">Padrão</string>
+    <string name="type_image">Imagem</string>
+    <string name="type_text">Texto</string>
+    <string name="type_video">Vídeo</string>
+    <string name="unlimited">Ilimitado</string>
     <string name="unzip_input_path">Path to extract…</string>
     <string name="unzip_to_current_directory">Extract to current directory</string>
     <string name="unziping">Extracting…</string>
@@ -919,7 +919,7 @@
     <string name="apk_path">APK path</string>
     <string name="plugin_id">Plugin ID</string>
     <string name="plugin_sdk_version">Plugin SDK</string>
-    <string name="plugin_manager">Plugin Manager</string>
+    <string name="plugin_manager">Gerenciador de plug-ins</string>
     <string name="plugin_manager_short">Manager</string>
     <string name="plugin_manifest_error">File parsing failed: manifest.json</string>
     <string name="plugin_sdk_error">The current version of MT does not support the plugin SDK, please update to the latest version. \n (plugin SDK: %1$d, maximum support: %2$d)</string>
@@ -1131,8 +1131,8 @@
     <string name="dex_anti_confuse_recovery_introduction">Recovery mode is the reverse operation of normal mode, this mode restores the apk processed in normal mode to its original symbolic name.\n\nThis process needs to read the mapping file, so make sure there is a mapping file in the apk.\n\nIf the apk processed in the normal mode can not be started, but you still want to modify it, you can try to use the recovery mode after the modification, and then install and run it.</string>
     <string name="mapping_file_not_found">Can not find the mapping file</string>
 
-    <string name="terminal_simulator">Terminal Simulator</string>
-    <string name="terminal_initializing">Initializing terminal…</string>
+    <string name="terminal_simulator">Simulador de terminal</string>
+    <string name="terminal_initializing">Inicializando o terminal…</string>
     <string name="terminal_initializing_download">Downloading expansion pack…</string>
     <string name="terminal_initializing_install">Installing…</string>
     <string name="terminal_reset">Reset</string>
@@ -1146,9 +1146,9 @@
     <string name="execute_with_root_privileges">Execute with root privileges</string>
     <string name="execute_with_normal_privileges">Execute with normal privileges</string>
 
-    <string name="terminal_close">Close</string>
-    <string name="terminal_close_query">Do you want to close the current session?</string>
-    <string name="minimize">Minimize</string>
+    <string name="terminal_close">Fechar</string>
+    <string name="terminal_close_query">Deseja fechar a sessão atual?</string>
+    <string name="minimize">Minimizar</string>
 
     <string name="wakelock">WakeLock</string>
     <string name="wakelock_on">WakeLock is acquired</string>
@@ -1471,14 +1471,14 @@
     <string name="delete_bookmarks_group_msg">Delete group \"%s\"?\nBookmarks in this group will be moved to the default group after being deleted</string>
     <string name="copy_result">Copy the result</string>
 
-    <string name="bottom_toolbar_margin_bottom">Add bottom margin to bottom-toolbar</string>
-    <string name="bottom_toolbar_margin_bottom_summary">You can pull out the bookmarks by sliding up from the bottom-toolbar. If you often conflict with the full screen gestures when sliding up, you can increase the bottom margin appropriately.</string>
-    <string name="bottom_toolbar_margin_bottom_size">Bottom margin size of bottom-toolbar</string>
-    <string name="bottom_toolbar_margin_bottom_size_short">Margin size</string>
-    <string name="where_are_the_bookmarks">Where are the bookmarks</string>
-    <string name="where_are_the_bookmarks_msg1">Swipe up from the bottom toolbar to open bookmarks</string>
-    <string name="where_are_the_bookmarks_msg2">(If your system supports full-screen gestures and it is easy to accidentally touch the bottom gestures of the full-screen when sliding up, you can increase the bottom margin of the bottom toolbar in the MT settings)</string>
-    <string name="i_got_it">I got it</string>
+    <string name="bottom_toolbar_margin_bottom">Adicionar margem inferior à barra de ferramentas inferior</string>
+    <string name="bottom_toolbar_margin_bottom_summary">Você pode retirar os favoritos deslizando para cima na barra de ferramentas inferior. Se você costuma entrar em conflito com os gestos de tela infinita ao deslizar para cima, pode aumentar a margem inferior adequadamente.</string>
+    <string name="bottom_toolbar_margin_bottom_size">Tamanho da margem inferior da barra de ferramentas inferior</string>
+    <string name="bottom_toolbar_margin_bottom_size_short">Tamanho da margem</string>
+    <string name="where_are_the_bookmarks">Onde estão os favoritos</string>
+    <string name="where_are_the_bookmarks_msg1">Deslize para cima na barra de ferramentas inferior para abrir os favoritos</string>
+    <string name="where_are_the_bookmarks_msg2">(Se o seu sistema suporta gestos de tela infinita, é fácil tocar acidentalmente nos gestos inferiores da tela infinita ao deslizar para cima, você pode aumentar a margem inferior da barra de ferramentas inferior nas configurações do Gerenciador MT)</string>
+    <string name="i_got_it">Entendi</string>
 
     <string name="android_data_grant_access_prompt">Starting from Android 11, third-party software cannot access the xxx directory due to system restrictions. You can try to authorize to allow MT to gain access to the directory. <b>Click [OK] to enter the authorization page, and click [USE THIS FOLDER] at the bottom to complete the authorization. </b>(If the authorization fails, it may be the reason that the system does not support it. You can also try to grant root permissions to MT to solve it.)</string>
 
