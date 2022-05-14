@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="language_name">English</string>
+    <string name="language_name">Português</string>
 
     <string name="select_text">Select</string>
     <string name="menu_edit_undo">Undo</string>
@@ -8,8 +8,8 @@
     <string name="menu_jump_to_line">Jump to line</string>
     <string name="menu_charset">Charset</string>
     <string name="linebreak">Linebreak</string>
-    <string name="label_font">Font</string>
-    <string name="label_font_size">Font Size</string>
+    <string name="label_font">Fonte</string>
+    <string name="label_font_size">Tamanho da fonte</string>
     <string name="label_font_type_normal">Normal</string>
     <string name="label_font_type_monospace">Monospace</string>
     <string name="label_re">Regex</string>
@@ -23,12 +23,12 @@
     <string name="match_case">Match case</string>
     <string name="appearance">Appearance</string>
     <string name="pinch_to_zoom">Pinch to zoom</string>
-    <string name="read_only_mode">Read-only mode</string>
+    <string name="read_only_mode">Modo somente leitura</string>
     <string name="smooth_mode">Smooth mode</string>
     <string name="smooth_mode_warn">After switching to the smooth mode, the fluency of editing large texts will be greatly enhanced, but this operation will lead to some features of the input method(such as copy and cut) being restricted. Moreover, the function of MT\'s own menu will not be affected.</string>
     <string name="smooth_mode_auto">Automatically switched to smooth mode</string>
 
-    <string name="about">About</string>
+    <string name="about">Sobre</string>
     <string name="access_flag_error">Access flag error</string>
     <string name="access_flags">Access flags</string>
     <string name="activity_record">Activity Record</string>
@@ -37,23 +37,23 @@
     <string name="advanced_search">Advanced search</string>
     <string name="already_cancel">Action canceled</string>
     <string name="text_has_been_copied">Text has been copied to the clipboard</string>
-    <string name="apk_file_size">File size</string>
-    <string name="apk_info">APK information</string>
-    <string name="apk_optimize">APK Optimize</string>
-    <string name="apk_sign">APK Sign</string>
-    <string name="app_name">MT Manager</string>
-    <string name="application_not_found">Application Not Found</string>
-    <string name="arsc_editor">Arsc Editor</string>
+    <string name="apk_file_size">Tamanho do arquivo</string>
+    <string name="apk_info">Informações do APK</string>
+    <string name="apk_optimize">Otimizar APK</string>
+    <string name="apk_sign">Assinar APK</string>
+    <string name="app_name">Gerenciador MT</string>
+    <string name="application_not_found">App não encontrado</string>
+    <string name="arsc_editor">Editor Arsc</string>
     <string name="axml_decompiled">Android Xml (Decompiled)</string>
-    <string name="axml_editor">Axml Editor</string>
-    <string name="backstage">Background</string>
+    <string name="axml_editor">Editor Axml</string>
+    <string name="backstage">Segundo plano</string>
     <string name="backward">Backward</string>
     <string name="belong">Belonger</string>
     <string name="bookmarks">Bookmarks</string>
     <string name="calculating_signature">Calculating signature…</string>
     <string name="can_not_edit_code">Unable to edit the code</string>
-    <string name="cancel">Cancel</string>
-    <string name="canceling">Cancelling operations…</string>
+    <string name="cancel">Cancelar</string>
+    <string name="canceling">Cancelando operações…</string>
     <string name="modify">Modify</string>
     <string name="change_owner">Change owner</string>
     <string name="changing">Changing…</string>
@@ -76,9 +76,9 @@
     <string name="content">Content</string>
     <string name="content_not_change">Content unchanged</string>
     <string name="copy_class_name">Copy full class name</string>
-    <string name="copying">Copying</string>
-    <string name="count_searched">Found: %d</string>
-    <string name="create">Create</string>
+    <string name="copying">Copiando</string>
+    <string name="count_searched">Encontrado: %d</string>
+    <string name="create">Criar</string>
     <string name="current_path_left">Current Path - Left (%s)</string>
     <string name="current_path_right">Current Path - Right (%s)</string>
     <string name="data_directory">Data directory</string>
@@ -89,15 +89,15 @@
     <string name="disk_msg2">%1$s used, %2$s available</string>
     <string name="disk_ro">RO</string>
     <string name="disk_rw">RW</string>
-    <string name="edit">Edit</string>
-    <string name="edit_code">Edit code</string>
+    <string name="edit">Editar</string>
+    <string name="edit_code">Editar código</string>
     <string name="effect_after_restart">Restart to take effect.</string>
     <string name="enter_password">Please enter your password</string>
-    <string name="error">Error</string>
+    <string name="error">Erro</string>
     <string name="error_details">Error details</string>
     <string name="error_extra">Please tell me the error details to help me fix the errors. Also please leave your contact information if you can.</string>
     <string name="error_msg">Error</string>
-    <string name="exit">Exit</string>
+    <string name="exit">Sair</string>
     <string name="exit_query">Do you want to exit?</string>
     <string name="export_tool">Export Tool</string>
     <string name="export_tool_success">Tool file has been saved to \"SDCard/MT2/MTkeytool.zip\"</string>
@@ -111,7 +111,7 @@
     <string name="file_content">Text to find</string>
     <string name="file_copying_name">Name:</string>
     <!-- must use \u0020\u0020 to represent two spaces -->
-    <string name="file_count_msg">Folder: %1$d\u0020\u0020File: %2$d</string>
+    <string name="file_count_msg">Pasta: %1$d | Arquivo: %2$d</string>
     <string name="file_counting">Counting</string>
     <string name="file_cover">Cover</string>
     <string name="file_cover_all">Cover All</string>
@@ -158,7 +158,7 @@
     <string name="hexadecimal">Hex</string>
     <string name="hide">Hide</string>
     <string name="image_damaged">Photo Damaged T_T</string>
-    <string name="incorrect_password">Incorrect password</string>
+    <string name="incorrect_password">Senha incorreta</string>
     <string name="install">Install</string>
     <string name="integer">Integer</string>
     <string name="interfaces">Interface</string>
@@ -173,17 +173,17 @@
     <string name="menu_add">Add</string>
     <string name="menu_add_to_bookmarks">Add to bookmarks</string>
     <string name="menu_close_file">Close file</string>
-    <string name="menu_copy">Copy</string>
+    <string name="menu_copy">Copiar</string>
     <string name="menu_link">Link</string>
-    <string name="menu_move">Move</string>
+    <string name="menu_move">Mover</string>
     <string name="menu_open_with">Open with…</string>
     <string name="menu_property">Property</string>
     <string name="menu_refresh">Refresh</string>
     <string name="menu_remount_ro">Remount RO</string>
     <string name="menu_remount_rw">Remount RW</string>
-    <string name="menu_delete">Delete</string>
-    <string name="menu_rename">Rename</string>
-    <string name="menu_save">Save</string>
+    <string name="menu_delete">Excluir</string>
+    <string name="menu_rename">Renomear</string>
+    <string name="menu_save">Salvar</string>
     <string name="menu_search">Search</string>
     <string name="menu_set_as_home">Set as Homepage</string>
     <string name="menu_share">Share</string>
@@ -191,8 +191,8 @@
     <string name="menu_sort_only_in_path">Only apply to this folder</string>
     <string name="menu_switch_background">Switch background color</string>
     <string name="menu_extract">Extract</string>
-    <string name="menu_compress">Compress</string>
-    <string name="method">Method</string>
+    <string name="menu_compress">Comprimir</string>
+    <string name="method">Método</string>
     <string name="method_info">Method information</string>
     <string name="method_list">Method list</string>
     <string name="method_name">Method name</string>
@@ -204,7 +204,7 @@
     <string name="text_not_found">Can\'t find the text.</string>
     <string name="notif_server_starting">Remote Management Service is Started</string>
     <string name="notif_title">Remote Management Service is Running</string>
-    <string name="ok">OK</string>
+    <string name="ok">"OK"</string>
     <string name="open_failed">Open Failed</string>
     <string name="out_of_memory_error">Out of Memory Error</string>
     <string name="other">Other</string>
@@ -226,15 +226,15 @@
     <string name="preparing">Preparing…</string>
     <string name="preview">Preview</string>
     <string name="preview_error">Preview (Conflict)</string>
-    <string name="property_name">Name</string>
-    <string name="property_type">Type</string>
+    <string name="property_name">Nome</string>
+    <string name="property_type">Tipo</string>
     <string name="property_link">Link to</string>
     <string name="property_csize">Compressed Size</string>
     <string name="property_crc32">CRC32</string>
     <string name="property_parent">Parent</string>
     <string name="property_size">Size</string>
     <string name="property_time">Modified</string>
-    <string name="property_permissions">Permissions</string>
+    <string name="property_permissions">Permissões</string>
     <string name="property_owner">Owner</string>
     <string name="property_group">Group</string>
     <string name="property_file_count">File Count</string>
@@ -248,12 +248,12 @@
     <string name="remote_instruction_pre1">Remotely manage your phone files on computer</string>
     <string name="remote_instruction_pre2">This feature requires your phone and your computer in the same LAN</string>
     <string name="remote_manager">Remote Management</string>
-    <string name="remove_class">Delete class</string>
-    <string name="remove_field">Delete field</string>
-    <string name="remove_method">Delete method</string>
+    <string name="remove_class">Excluir class</string>
+    <string name="remove_field">Excluir field</string>
+    <string name="remove_method">Excluir method</string>
     <string name="removing">Deleting…</string>
     <string name="rename_batch">Batch rename</string>
-    <string name="rename_class">Rename class</string>
+    <string name="rename_class">Renomear class</string>
     <string name="rename_failed_list">The following file rename failed</string>
     <string name="renaming">Renaming…</string>
     <string name="replace_short">Rep</string>
@@ -291,10 +291,10 @@
     <string name="signature_key">Signature Key</string>
     <string name="signature_key_instructions">Custom key file placed in \"SDCard/MT2/keys\".</string>
     <string name="signature_key_instructions2">You just need to open the .jks or .keystore file with MT to import the signature.</string>
-    <string name="sort_by_date">by Date</string>
-    <string name="sort_by_name">by Name</string>
-    <string name="sort_by_size">by Size</string>
-    <string name="sort_by_type">by Type</string>
+    <string name="sort_by_date">por Data</string>
+    <string name="sort_by_name">por Nome</string>
+    <string name="sort_by_size">por Tamanho</string>
+    <string name="sort_by_type">por Tipo</string>
     <string name="sort_reverse">Reverse order</string>
     <string name="source_file">Source file</string>
     <string name="start">Start</string>
@@ -356,19 +356,19 @@
     <string name="src_language">Source</string>
     <string name="target_language">Target</string>
 
-    <string name="language">Language</string>
-    <string name="language_auto">Auto</string>
-    <string name="language_chinese">Chinese</string>
-    <string name="language_traditional_chinese">Traditional Chinese</string>
-    <string name="language_english">English</string>
-    <string name="language_russian">Russian</string>
-    <string name="language_koren">Korean</string>
+    <string name="language">Idioma</string>
+    <string name="language_auto">Automático</string>
+    <string name="language_chinese">Chinês</string>
+    <string name="language_traditional_chinese">Chinês tradicional</string>
+    <string name="language_english">Inglês</string>
+    <string name="language_russian">Russo</string>
+    <string name="language_koren">Coreano</string>
     <string name="language_japanese">Japanese</string>
     <string name="language_french">French</string>
     <string name="language_spanish">Spanish</string>
     <string name="language_thai">Thai</string>
     <string name="language_arabic">Arabic</string>
-    <string name="language_portuguese">Portuguese</string>
+    <string name="language_portuguese">Português</string>
     <string name="language_german">German</string>
     <string name="language_italian">Italian</string>
     <string name="language_greek">Greek</string>
@@ -384,7 +384,7 @@
     <string name="language_swedish">Swedish</string>
     <string name="language_hungarian">Hungarian</string>
     <string name="language_ukrainian">Ukrainian</string>
-    <string name="select_language_to_hide">Select language to hide</string>
+    <string name="select_language_to_hide">Selecione o idioma para ocultar</string>
 
     <string name="read_failed">Please check your internet connection</string>
     <string name="flatten_package">Flatten package</string>
@@ -396,7 +396,7 @@
 
     <string name="need_root_permission">Permission denied</string>
 
-    <string name="open_with_text">Text Editor</string>
+    <string name="open_with_text">Editor de texto</string>
     <string name="open_with_image">Image Viewer</string>
     <string name="open_with_music">Music Player</string>
     <string name="open_with_font">Font Viewer</string>
@@ -422,7 +422,7 @@
     <string name="script_execution_completed">Script execution completed</string>
 
 
-    <string name="more">More</string>
+    <string name="more">Mais</string>
     <string name="connect_to_server_failed">Connection to server failed</string>
 
     <string name="user_login">Login</string>
@@ -430,23 +430,23 @@
     <string name="user_not_login">Not logged in</string>
     <string name="user_login_button">Login</string>
     <string name="user_logging_in">Logging in</string>
-    <string name="user_register">Register</string>
-    <string name="user_registering">Registering</string>
-    <string name="user_register_button">Register</string>
-    <string name="user_name">Username</string>
-    <string name="user_nick">Nickname</string>
-    <string name="user_password">Password</string>
-    <string name="user_email">Email</string>
+    <string name="user_register">Registrar</string>
+    <string name="user_registering">Registrando</string>
+    <string name="user_register_button">Registrar</string>
+    <string name="user_name">Nome de usuário</string>
+    <string name="user_nick">Apelido</string>
+    <string name="user_password">Senha</string>
+    <string name="user_email">E-mail</string>
     <string name="user_reg_time">Reg</string>
     <string name="user_vip">VIP</string>
-    <string name="user_purchase_vip">Purchase VIP</string>
-    <string name="user_renew_vip">Purchase VIP</string>
-    <string name="user_not_vip">Not VIP</string>
-    <string name="user_remember_password">Remember password</string>
-    <string name="user_enter_old_password">Old password</string>
-    <string name="user_enter_new_password">New password</string>
-    <string name="user_info">User Info</string>
-    <string name="user_change_password">Change password</string>
+    <string name="user_purchase_vip">Comprar Conta VIP</string>
+    <string name="user_renew_vip">Comprar Conta VIP</string>
+    <string name="user_not_vip">Versão gratuita</string>
+    <string name="user_remember_password">Lembrar senha</string>
+    <string name="user_enter_old_password">Senha antiga</string>
+    <string name="user_enter_new_password">Nova senha</string>
+    <string name="user_info">Informações de usuário</string>
+    <string name="user_change_password">Alterar senha</string>
 
     <string name="user_login_success">Login successful</string>
     <string name="user_login_failed">Login failed</string>
@@ -490,7 +490,7 @@
     <string name="please_login_first">Please login first</string>
     <string name="feature_need_vip">This feature is only available to VIP</string>
 
-    <string name="user_recharge_key">Key Recharge</string>
+    <string name="user_recharge_key">Recarga de Chave</string>
     <string name="user_recharge_key_32">Please enter a key with length of 32</string>
     <string name="user_recharge_key_format_error">Key format error</string>
     <string name="user_recharge_success">Successful recharge</string>
@@ -506,8 +506,8 @@
     <string name="user_permanent_vip_short">Lifetime</string>
     <string name="user_permanent_vip">Lifetime VIP</string>
 
-    <string name="source">Source</string>
-    <string name="decompile">Decompile</string>
+    <string name="source">Fonte</string>
+    <string name="decompile">Descompilar</string>
 
     <string name="pay_unknown_error">Failure to pay, unknown error</string>
     <string name="pay_success">Payment succeed, please refresh later</string>
@@ -627,14 +627,14 @@
     <string name="key_incorrect_alias_password">Incorrect alias password</string>
     <string name="key_file_too_large">The file is too large</string>
 
-    <string name="search_by_id">Search by ID</string>
-    <string name="check_for_updates">Check for update</string>
-    <string name="check_for_updates_toast">Checking for new version, please wait</string>
-    <string name="no_update_toast">Your MT is up to date</string>
-    <string name="new_version_toast">Found a new version</string>
-    <string name="download_started">The download has started</string>
+    <string name="search_by_id">Pesquisar por ID</string>
+    <string name="check_for_updates">Verificar atualizações</string>
+    <string name="check_for_updates_toast">Verificando a nova versão, por favor aguarde</string>
+    <string name="no_update_toast">O app está atualizado</string>
+    <string name="new_version_toast">Nova versão encontrada</string>
+    <string name="download_started">Download iniciado</string>
 
-    <string name="author">Produced by Bin</string>
+    <string name="author">Produzido por Bin\nTraduzido em Português do Brasil por:\n• Diorgenes Setubal\n• Gabriela Mardroeme</string>
     <string name="qq_group_1">QQ Group 1:</string>
     <string name="qq_group_2">QQ Group 2:</string>
     <string name="qq_group_3">QQ Group 3:</string>
@@ -655,7 +655,7 @@
     <string name="message_move_folder_error">Can not move a folder to itself or subfolder: %s</string>
     <string name="uploading">Uploading…</string>
     <string name="ftp_query_upload">File \"%s\" has been modified. Do you want to upload it?</string>
-    <string name="ftp_client">FTP Client</string>
+    <string name="ftp_client">Cliente FTP</string>
     <string name="ftp_host">Host</string>
     <string name="ftp_port">Port</string>
     <string name="ftp_username">Username(Can be empty)</string>
@@ -1690,13 +1690,13 @@
     <string name="syntax_files_builtin">Built-in</string>
     <string name="highlight">Highlight</string>
     <string name="brackets_jump">Brackets jump</string>
-<string name="brackets_jump">Jump to another bracket</string>
-<string name="brackets_select">Select between brackets</string>
+    <string name="brackets_jump">Jump to another bracket</string>
+    <string name="brackets_select">Select between brackets</string>
 
     <string name="use_builtin_apk_installer">Use built-in APK installer</string>
     <string name="use_builtin_apk_installer_summary">Only takes effect with root privileges.</string>
     <string name="use_builtin_apk_installer_fail">APK installation failed, call the system installer to install.</string>
-    <string name="copying_file">Copying file…</string>
+    <string name="copying_file">Copiando arquivo…</string>
     <string name="apk_install_fail_version_downgrade">Installation failed, cannot downgrade installation!</string>
     <string name="apk_install_fail_update_incompatible">Installation failed, inconsistent with installed APK signature!</string>
     <string name="apk_install_fail_older_sdk">Installation failed, the target SDK version of this APK is not compatible with your device!</string>
@@ -1707,7 +1707,7 @@
     <string name="apks_install_fail_miui">Installation failed, please try to turn off "MIUI optimization" in developer options.</string>
     <string name="apks_install_canceled">Installation was canceled</string>
     <string name="apks_install_miui_warning">You are about to install apks/xapk files in rootless mode. Due to MIUI\'s changes to Android API, there may be unpredictable situations that may cause the installation to fail.\n\nIf you encounter this problem, you can probably fix it by <b>turning off MIUI optimization in the developer options</b>.\n\nIf the problem still cannot be solved after trying, then you can only install in root mode by enabling root permissions.</string>
-    <string name="developer_options">Developer options</string>
+    <string name="developer_options">Opções de desenvolvedor</string>
 
 
 </resources>

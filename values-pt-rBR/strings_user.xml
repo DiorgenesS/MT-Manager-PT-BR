@@ -6,7 +6,7 @@
     </plurals>
 
     <string name="see_details">Veja detalhes</string>
-    <string name="not_opened_vip">Sem Conta VIP</string>
+    <string name="not_opened_vip">Versão gratuita</string>
 
     <string name="purchase_vip_now">Comprar Conta VIP</string>
     <string name="renew_vip_now">Renovar Conta VIP</string>
@@ -15,11 +15,11 @@
     <string name="purchase_vip_success">Conta VIP comprada com sucesso</string>
     <string name="opened_lifetime_vip">Você já tem uma Conta VIP vitalícia</string>
 
-    <string name="vip_privilege">Privilégio</string>
+    <string name="vip_privilege">Privilégios</string>
 
-    <string name="understood_and_agreed_vip_notice"><u>Avisos VIP</u></string>
-    <string name="vip_notice">Avisos VIP</string>
-    <string name="vip_notice_content">* Você pode usar todas as funções da Conta VIP do Gerenciador MT após ativa-lá. A conta não está vinculada ao dispositivo. Você pode fazer login para usar em qualquer dispositivo, mas não há suporte para login na mesma conta ao mesmo tempo.\n* Para que o Gerenciador MT funcione corretamente, a conta VIP é limitada ao próprio comprador, e não é permitido compartilhar, alugar ou vender publicamente, caso contrário a conta pode ser bloqueada permanentemente.\n* O conteúdo VIP pertence a bens virtuais, uma vez que a compra não suporta a operação de reembolso.\n* Se você encontrar problemas durante o processo de pagamento, pode escrever para 921558445@qq.com</string>
+    <string name="understood_and_agreed_vip_notice"><u>Notícias</u></string>
+    <string name="vip_notice">Notícias</string>
+    <string name="vip_notice_content">• Você pode usar todas as funções da Conta VIP do Gerenciador MT após ativa-lá. A conta não está vinculada ao dispositivo. Você pode fazer login para usar sua conta em qualquer dispositivo, mas não há suporte para login simultâneo.\n• Para que o Gerenciador MT funcione corretamente, a Conta VIP é limitada ao próprio comprador, e não é permitido compartilhar, alugar ou vender publicamente, caso contrário a conta pode ser bloqueada permanentemente.\n• O conteúdo VIP pertence a bens virtuais, uma vez que a compra não suporta a operação de reembolso.\n• Se você encontrar problemas durante o processo de pagamento, pode escrever para 921558445@qq.com</string>
 
     <string name="vip_function1">Chave de assinatura personalizada</string>
     <string name="vip_function2">Backup dos dados do usuário na nuvem</string>
@@ -30,8 +30,8 @@
     <string name="vip_function7">Reparar arquivo dex</string>
     <string name="vip_function8">Dex anti-confusão</string>
     <string name="vip_function9">Descriptografar strings dex</string>
-    <string name="vip_function10">Comparação de texto</string>
-    <string name="vip_function11">Extensão do plug-in</string>
+    <string name="vip_function10">Comparar texto</string>
+    <string name="vip_function11">Extensão de plug-in</string>
     <string name="vip_function12">E muito mais >></string>
 
 </resources>
